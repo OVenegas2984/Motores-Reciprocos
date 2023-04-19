@@ -19,10 +19,10 @@ juega un papel importante. Así, un motor de combustión interna es un dispositi
 
 ## Objetivos generales
   
-* Identifica y explica los componentes de un MCIA.
-* Interpreta los ciclos termodinámicos de los MCIA.
-* Manipula parámetros geométricos y de operación de un MCIA.
-* Resuelve problemas de MCIA.
+* Identificar y explicar los componentes de un MCIA.
+* Interpretar los ciclos termodinámicos de los MCIA.
+* Manipular parámetros geométricos y de operación de un MCIA.
+* Resolver problemas de MCIA.
 
 ## Metodología y requerimientos
 
