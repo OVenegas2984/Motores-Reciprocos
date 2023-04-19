@@ -2,13 +2,13 @@
 
 <div align="center">
   <img alt="R.LTWB" src=".icons/R.LTWB.svg" width="250px">
-  <br><b>Balance hidrológico de largo plazo para estimación de caudales medios usando SIG.</b><br>Long-term water balance by r.cfdtools@gmail.com<br><br>  
+  <br><b>Motores de Combustión Interna Alternativos by Oscar Venegas<br><br>  
 </div>
 
-<div align="center">
-<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
-<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
-</div>
+%<div align="center">
+%<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
+%<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
+%</div>
 
 _Bienvenido al curso de Balance hidrológico de largo plazo - LTWB para estimación de caudales medios usando SIG_. En este curso aprenderá a generar grillas de caudales medios acumulados distribuidos de largo plazo y grillas de isorendimientos medios a partir de modelos de terreno, de grillas interpoladas de precipitación media y de mapas de evapotranspiración real, utilizando sistemas de información geográfica.
 
