@@ -1,4 +1,4 @@
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-en-sistemas-termicos-y-mecanicos/" target="_blank"><img src="https://github.com/OVenegas2984/Motores-Reciprocos/tree/main/.icon/IconCESTYMBanner.svg" alt="R.LTWB" width="100%" border="0" /></a></div>
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-en-sistemas-termicos-y-mecanicos/" target="_blank"><img src="https://github.com/OVenegas2984/Motores-Reciprocos/tree/main/.icon/IconCESTYMBanner.svg" alt="Motores-Reciprocos" width="100%" border="0" /></a></div>
 
 <div align="center">
   <img alt="R.LTWB" src=".icons/R.LTWB.svg" width="250px">
