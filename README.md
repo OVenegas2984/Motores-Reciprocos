@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<br><img alt="Motores-Reciprocos" src=".icons/ICE.png" width="75%"><br>
+<br><img alt="Motores-Reciprocos" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ICE.png" width="75%"><br>
 <sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
 </div>
 
