@@ -5,14 +5,14 @@
   <br><b>Motores de Combustión Interna Alternativos by Oscar Venegas<br><br>  
 </div>
 
-%<div align="center">
-%<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
-%<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
-%</div>
+<div align="center">
+<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
+<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
+</div>
 
-_Bienvenido al curso de Balance hidrológico de largo plazo - LTWB para estimación de caudales medios usando SIG_. En este curso aprenderá a generar grillas de caudales medios acumulados distribuidos de largo plazo y grillas de isorendimientos medios a partir de modelos de terreno, de grillas interpoladas de precipitación media y de mapas de evapotranspiración real, utilizando sistemas de información geográfica.
-
-Este curso ha sido dividido en diferentes secciones y actividades secuenciales, a través de las cuales el estudiante desarrollará diferentes habilidades computacionales y analíticas, que podrá aplicar en proyectos de ingeniería y casos de estudio propios.
+_Bienvenido al curso Motores de Combustión Interna Alternativos (MCIA)_. En este curso aprenderá a identificar los diferentes componentes de un MCIA y determinar los principales parámetros geométricos para llevar a cabo el dimensionamiento y comportamiento dinámico de un motor y los parámetros de operación para determinar las prestaciones en términos de potencia, par y consumo específico de combustible. Además se aplicará la teoría de semejanza que permite justificar las tendencias actuales y diseñar motores a partir de uno existente.
+  
+Este curso ha sido dividido en diferentes secciones y actividades secuenciales, a través de las cuales el estudiante apropiará diferentes conceptos y desarrollará diferentes habilidades analíticas y de toma de decisiones con criterio, que podrá aplicar en proyectos que involucran las máquinas térmicas y casos de estudio propios.
 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=6eu-mLKVcOw" target="_blank"><img src=".icons/R.LTWB_PlayVideo.svg" alt="R.LTWB" width="240" border="0" /></a><sub><br>https://www.youtube.com/watch?v=6eu-mLKVcOw<br>Playlist: https://youtube.com/playlist?list=PLZGvAjHkhphDKXvnhkp0oQb22EHWVd0W8</sub><br><br></div>
 
