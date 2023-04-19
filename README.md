@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
-<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
+<br><img alt="Motores-Reciprocos" src=".icons/ICE.png" width="75%"><br>
+<sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
 </div>
 
 _Bienvenido al curso Motores de Combustión Interna Alternativos (MCIA)_. En este curso aprenderá a identificar los diferentes componentes de un MCIA y determinar los principales parámetros geométricos para llevar a cabo el dimensionamiento y comportamiento dinámico de un motor y los parámetros de operación para determinar las prestaciones en términos de potencia, par y consumo específico de combustible. Además se aplicará la teoría de semejanza que permite justificar las tendencias actuales y diseñar motores a partir de uno existente.
