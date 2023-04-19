@@ -35,23 +35,23 @@ Los requerimientos académicos y computacionales generales para el desarrollo de
 
 ## Dirigido a
 
-Los contenidos presentados en este curso están dirigidos a estudiantes y profesionales de diferentes disciplinas que requieran aprender y/o fortalecer sus conocimientos en hidrología computacional y sistemas de información geográfica, tales como:
+Los contenidos presentados en este curso están dirigidos a estudiantes y profesionales de diferentes disciplinas que requieran aprender y/o fortalecer sus conocimientos en motores de combustion interna alternativos, tales como:
 
 * Estudiantes de pregrado y posgrado en ingeniería.
 * Ingenieros y especialistas.
-* Técnicos y tecnólogos en ingeniería civil y afines. 
-* Funcionarios públicos y/o gestores territoriales con conocimientos en hidrología.
+* Técnicos y tecnólogos en ingeniería mecánica y afines.
 
 
-## Sección 1 - Introducción y fundamentos [:hook:](Section01/Readme.md)
+## Sección 1 - Introducción a las máquinas térmicas y fundamentos termodinámicos
 
- En esta sección se presenta la utilidad de los LTWB en el campo de la ingeniería, se delimita el caso de estudio y se establecen los requerimientos generales para el desarrollo de las diferentes actividades prácticas incluidas en el curso.
+ En esta sección se presenta la definición de una máquina térmica, los principales componentes de un motor de combustión interna alternativo y los fundamentos termodinámicos que permiten determinar puntos de operación indicados para estimar sus prestaciones en diferentes condiciones de operación. Además, se presenta la forma de llevar a cabo un caso de estudio y los requisitos para el cumplimiento de la actividad. 
 
 | Actividad                                                                                           | Alcance                                                                                                                                                                                                                                                                                                            | Dedicación,<br>3.25 horas | 
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------:|
-| [¿Qué son y para qué sirven los balances hidrológicos de largo plazo – LTWB?](Section01/WhatIsLTWB) | Explicación general del procedimiento para la realización de balances hidrológicos e identificación de información base requerida. En esta clase también se listan algunas de las aplicaciones generales de los caudales medios de largo plazo en la realización de estudios de ingeniería y estudios ambientales. |           0.25            | 
-| [Requerimientos](Section01/Requirement)                                                             | En esta actividad se listan los requerimientos académicos y computacionales generales para el desarrollo de las diferentes actividades del curso, se define y crea la estructura de directorios y se realiza la instalación y configuración de las principales herramientas requeridas.                            |             2             | 
-| [Caso de estudio](Section01/CaseStudy)                                                              | Definición de la zona de estudio a partir de la cobertura de subzonas hidrográficas de Colombia - Suramérica, con creación de polígono envolvente. En esta actividad se define el sistema de proyección de coordenadas a utilizar en la creación y procesamiento de los diferentes mapas y capas geográficas.      |             1             | 
+| [Introdcucción a las Máquinas Térmicas](Section01/Introducción) | Explicación general del procedimiento para la realización de balances hidrológicos e identificación de información base requerida. En esta clase también se listan algunas de las aplicaciones generales de los caudales medios de largo plazo en la realización de estudios de ingeniería y estudios ambientales. |           1            | 
+| [Tipos de motores y componentes de un motor recíproco](Section01/Componentes)                                                             | En esta actividad se listan los requerimientos académicos y computacionales generales para el desarrollo de las diferentes actividades del curso, se define y crea la estructura de directorios y se realiza la instalación y configuración de las principales herramientas requeridas.                            |             1             | 
+| [Fundamentos termodinámicos](Section01/Termodinámica)                                                              | Definición de la zona de estudio a partir de la cobertura de subzonas hidrográficas de Colombia - Suramérica, con creación de polígono envolvente. En esta actividad se define el sistema de proyección de coordenadas a utilizar en la creación y procesamiento de los diferentes mapas y capas geográficas.      |             1             | 
+| [Caso de estudio](Section01/CasoEstudio)                                                              | Definición de la zona de estudio a partir de la cobertura de subzonas hidrográficas de Colombia - Suramérica, con creación de polígono envolvente. En esta actividad se define el sistema de proyección de coordenadas a utilizar en la creación y procesamiento de los diferentes mapas y capas geográficas.      |             2             | 
 
 
 
