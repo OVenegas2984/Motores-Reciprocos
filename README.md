@@ -13,28 +13,16 @@ _Bienvenido al curso Motores de Combustión Interna Alternativos (MCIA)_. En est
   
 Este curso ha sido dividido en diferentes secciones y actividades secuenciales, a través de las cuales el estudiante apropiará diferentes conceptos y desarrollará diferentes habilidades analíticas y de toma de decisiones con criterio, que podrá aplicar en proyectos que involucran las máquinas térmicas y casos de estudio propios.
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=6eu-mLKVcOw" target="_blank"><img src=".icons/R.LTWB_PlayVideo.svg" alt="R.LTWB" width="240" border="0" /></a><sub><br>https://www.youtube.com/watch?v=6eu-mLKVcOw<br>Playlist: https://youtube.com/playlist?list=PLZGvAjHkhphDKXvnhkp0oQb22EHWVd0W8</sub><br><br></div>
-
-_“Un balance Hidrológico es una de las herramientas para la identificación de las condiciones del recurso hídrico en un lugar determinado, este permite relacionar las variables que intervienen en el ciclo hidrológico, tales como la precipitación, la evapotranspiración, el escurrimiento superficial, el almacenamiento superficial y subterráneo y el flujo de agua subterránea. El cálculo del balance hídrico en una cuenca o en una región determinada permite obtener información sobre: el volumen anual de escurrimiento o excedentes; el período en el que se produce el excedente; y el período en el que se produce un déficit de agua o sequía. El balance hídrico también permite la medición de flujos de agua es decir caudales y almacenamientos de la misma.”_ (Fattorelli & Fernández, 2011).
+_“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
+juega un papel importante. Así, un motor de combustión interna es un dispositivo que transforma la energía química de un combustible en energía térmica y utiliza ésta energía térmica para producir trabajo útil. Por lo tanto, un motor de combustión convierte la energía térmica en energía mecánica.”_ (V. Ganesan, 2012).
 
 
 ## Objetivos generales
-
-* Comprender la utilidad de los balances hidrológicos de largo plazo en los campos de ingeniería aplicada.
-* Delimitar la zona de estudio para descargar y procesar las redes de drenaje y los modelos digitales de elevación ASTER GDEM, SRTM y ALOS PALSAR.
-* Utilizando técnicas de hidrología computacional, reajustar los modelos digitales de elevación incrustando la red de drenaje, rellenar sumideros, determinar las direcciones de flujo, calcular las acumulaciones, demarcar los drenajes y obtener puntos característicos sobre toda la red de drenaje.
-* A partir de la zona de estudio, identificar las estaciones hidroclimatológicas terrestres para analizar su densidad y cobertura.
-* A partir de la red de estaciones, descargar y procesar series temporales a través de técnicas de ciencia de datos. El procesamiento incluye la exploración y análisis de series, su representación gráfica, la identificación y ajuste de valores atípicos, el completado y extendido para obtener series homogéneas.
-* Comparar series terrestres con series obtenidas a través de sensores remotos satelitales.
-* Segmentar las series compuestas en series por fenómeno climatológico (El Niño, La Niña y Neutro) a partir del indicador ENSO-ONI o El Niño-Oscilación del Sur, de la National Oceanic and Atmospheric Administration - NOAA de los Estados Unidos de América.
-* A partir de series validadas y de la marcación de años por fenómeno climatológico, realizar agregaciones estadísticas a nivel multianual.
-* Analizar y crear mapas continuos por fenómeno climatológico de las variables climatológicas requeridas para el balance hidrológico. Para la generación de los mapas de evapotranspiración potencial, utilizaremos ecuaciones regionales que dependen de la elevación del terreno, temperatura y precipitación total.
-* Realizar balances hidrológicos de largo plazo distribuidos y para cuencas o zonas geográficas delimitadas como las subzonas hidrográficas del IDEAM - Colombia - Suramérica.
-* A partir de los puntos característicos obtenidos sobre la red de drenaje, de sus áreas de aportación y de los mapas de caudal medio, obtener ecuaciones características compuestas y por fenómeno climatológico.
-* Estimar y evaluar mapas de isorendimientos medios.
-* Obtener habilidades en automatización de análisis de datos y de procesos geográficos utilizando el lenguaje de programación Python.
-* Para las diferentes etapas de procesamiento de información hidroclimatológica, generar y publicar de forma automática, reportes detallados en formato Markdown.
-
+  
+* Identifica y explica los componentes de un MCIA.
+* Interpreta los ciclos termodinámicos de los MCIA.
+* Manipula parámetros geométricos y de operación de un MCIA.
+* Resuelve problemas de MCIA.
 
 ## Metodología y requerimientos
 
