@@ -13,6 +13,8 @@ _Bienvenido al curso Motores de Combustión Interna Alternativos (MCIA)_. En est
   
 Este curso ha sido dividido en diferentes secciones y actividades secuenciales, a través de las cuales el estudiante apropiará diferentes conceptos y desarrollará diferentes habilidades analíticas y de toma de decisiones con criterio, que podrá aplicar en proyectos que involucran las máquinas térmicas y casos de estudio propios.
 
+https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/d9f627d3-064c-4223-9ff4-a177298c1b30
+
 _“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
 juega un papel importante. Así, un motor de combustión interna es un dispositivo que transforma la energía química de un combustible en energía térmica y utiliza ésta energía térmica para producir trabajo útil. Por lo tanto, un motor de combustión convierte la energía térmica en energía mecánica.”_ (V. Ganesan, 2012).
 
