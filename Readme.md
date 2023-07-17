@@ -22,7 +22,7 @@ https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/4ce8a95e-5c7
 https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5
 
 <div align="center">
-  <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" width="75%" border="0" />
+  <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" width="75%" border="0" /></a><sub><br>Fuente: Propia</sub><br><br></div>
 </div>
 
 _“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
