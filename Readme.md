@@ -13,11 +13,9 @@ _Bienvenido al curso Motores de Combustión Interna Alternativos (MCIA)_. En est
   
 Este curso ha sido dividido en diferentes secciones y actividades secuenciales, a través de las cuales el estudiante apropiará diferentes conceptos y desarrollará diferentes habilidades analíticas y de toma de decisiones con criterio, que podrá aplicar en proyectos que involucran las máquinas térmicas y casos de estudio propios.
 
-<div align="center"><a href="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5"><width="75%" border="0" /></a><sub><br></sub><br><br></div>
-
 <div align="center">
-<br><img alt="Motores-Reciprocos" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ICE.png" width="50%"><br>
-<sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
+<br><a href="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" width="75%"><br>
+<sub>Fuente: Propia.</sub><br><br>
 </div>
 
 
