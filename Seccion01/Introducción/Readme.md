@@ -23,7 +23,7 @@ En las máquinas de combustión externa, el fluido de trabajo (fluido que genera
 
 <div align="center">
 <br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="30%"><br>
-<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
 Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
@@ -51,28 +51,17 @@ Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le
 
 ## Máquina de combustión interna
 
-Para la estimación de caudales medios, se realiza un balance hidrológico de largo plazo en cada una de las celdas que cubre la zona de estudio. Se denomina de largo plazo, debido a que se asume que luego de ser saturado el suelo, la escorrentía se produce por los excedentes de precipitación que no son evapotranspirados.
+Por su parte, en las máquinas de combustión interna, el fluido de trabajo experimenta el proceso de combustión y asu vez genera movimiento al mecanismo. Se ecuentran básicamente tres tipos de motores de combustión interna:
 
-> Es importante tener en cuenta que en algunas zonas particulares, se pueden obtener déficits debido a que el valor estimado o medido de la evapotranspiración puede ser mayor al valor de precipitación disponible.
+* Turbinas a gas
+* Motores a reacción
+* Motores recíprocos ó alternativos
 
-La siguiente expresión permite determinar el caudal medio en cada celda de terreno, en el que, al valor estimado de precipitación, se le resta la abstracción correspondiente a la evapotranspiración real. El valor correspondiente al área sobre la cual se estima el caudal, corresponde al total de celdas convergentes (en cada localización del terreno) multiplicadas por el tamaño de cada pixel, el cual es definido por la resolución espacial de las grillas utilizadas.
+### Turbina de vapor
 
-<div align="center">
+### Motores a reacción
 
-Qm = (( P – E ) * A) / t
-
-</div>
-
-Donde,
-
-* Qm: caudal medio, m³/s
-* P: precipitación, mm/año
-* E: evapotranspiración real, mm/año
-* A: área de cada celda, m²
-* t: tiempo en segundos en un año, (365 dias x 24 horas x 60 minutos x 60 segundos = 31.536.000.000)
-
-El cálculo computacional del LTWB, puede ser desarrollado con cualquier software SIG que disponga de herramientas para reacondicionamiento de modelos de terreno, creación de mosaicos, algebra de mapas y herramientas de análisis espacial. Algunas de las actividades de este curso han sido desarrolladas utilizando QGIS, ArcGIS for Desktop, ArcGIS Pro, HEC-GeoHMS y HEC-HMS.
-
+### Motores recíprocos ó alternativos
 
 ## Referencias
 
