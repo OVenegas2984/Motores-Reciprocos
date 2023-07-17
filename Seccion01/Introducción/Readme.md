@@ -22,7 +22,7 @@ Estos motores recíprocos han sido fundamentales en la industria y el transporte
 En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. 
 
 <div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="100%"><br>
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="50%"><br>
 <sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
 </div>
 
