@@ -5,19 +5,18 @@
 </div><br>
 
 
-## Introducción a los Motores Recíprocos
+## Componentes de un MCIA y Clasificaciones
 Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy` `Chemical Energy` `Combustion`
 
-<br>Las máquinas térmicas han desempeñado un papel fundamental en la historia de la humanidad, ya que han sido un factor clave para el desarrollo de la industria y el avance tecnológico. A lo largo del tiempo, se han seguido desarrollando máquinas térmicas cada vez más eficientes y con diversas con aplicaciones que van desde el transporte terrestre, la propulsión de aviones y la generación de energía eléctrica.
+<br> Para la adecuada operación de un motor de combustión interna alternativo (MCIA), se tienen una serie de componentes fundamentales que permiten su correcta operación cíclica. Dentro de éstos componentes se encientran el bloque, los cilindros, los pistones, las bielas, el cigueñal, la culata, las válvulas y ele eje de levas. Aunque dichos elementos son los principales, existen otros sistemas que garantizan una operación uniforme bajo unas condiciones determinadas como lo son el sistema de alimentación de combustible, el sistema de admisión, el sistema de escape, el sistema de lubricación y el sistema de refrigeración.
 
-A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las máquinas de combustión siguen siendo ampliamente utilizadas en la actualidad en diferentes áreas de la industria en general, aunque se espera que su uso graduclamente siga incorporando fuentes de energía más limpias y sostenibles en pro del bienestar de la sociedad. Un tipo particular de máquina térmica, son los motores recíprocos o alternativos (también conocidos como motores de pistón), los cuales convierten la energía química del combustible en energía mecánica a través de un proceso cíclico al interior del cilindro. 
+Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo: motores de cuatro tiempos y motores de dos tiempos. Aunque también se pueden encontrar clasificaciones en función del tipo de bloque, el tipo de encendido, tipo de distribución según la ubicación del eje de levas y de acuerdo al proceso de alimentación del aire (aspirado o sobrealimentado). 
 
-Estos motores recíprocos han sido fundamentales en la industria y el transporte, impulsando automóviles, aviones, embarcaciones y una amplia variedad de maquinarias y a los largo del tiempo han experimentado una evolución continua, mejorando en eficiencia, rendimiento y reducción de emisiones, encontrándose así hoy día motores más amigables con el medio ambiente llevando a cabo una transición hacia fuentes de energía más sostenibles y menos dependientes de los combustibles fósiles en el futuro.
 
 <div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
 
-## Máquina de combustión externa
+## Partes Móviles Fundamentales
 En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. 
 
 <div align="center">
@@ -25,57 +24,21 @@ En las máquinas de combustión externa, el fluido de trabajo (fluido que genera
 <sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
-Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
 
-* Máquina de vapor
-* Turbina de vapor
 
-### Máquina de vapor
-La máquina de vapor consiste en generar vapor gracias a la transferencia de calor de una caldera externa y así generar movimiento de algún mecanismo, ya sea como se usaba antigüamente para impulsar las locomotoras o tambén para extraer trabajo del fluido y usarlo en los procesos industriales.
-
-<div align="center">
-<br><img alt="MaquinaVapor" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MaquinaVapor.jpg" width="30%"><br>
-<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
-</div>
-
-### Turbina de vapor
-Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le cede calor al agua y ésta se convierte en vapor. La diferencia radica en que a la salida de vapor cuenta con una tobera (reducción de sección) que aumenta la velocidad del fluido (energía cinética) impactando sobre los álabes de una turbina para generar movimiento de la misma y extraer potencia al eje.
-
-<div align="center">
-<br><img alt="TurbinaVapor" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Turbina.svg" width="30%"><br>
-<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
-</div>
-
-## Máquina de combustión interna
+## Partes Fijas Fundamentales
 Por su parte, en las máquinas de combustión interna, el fluido de trabajo experimenta el proceso de combustión y asu vez genera movimiento al mecanismo. Se ecuentran básicamente tres tipos de motores de combustión interna:
 
 * Turbinas a gas
 * Motores a reacción
-* Motores recíprocos ó alternativos
 
-### Turbina a gas
-A diferencia de la turbina a vapor, la turbina a gas usa los gases del proceso de combustión para generar potencia en un eje. Está compuesta por un compresor, una cámara de combustión donde el fluido de trabajo experimenta el proceso de combustión y una turbina para extraer trabajo el aje. Habitualmente son usadas en el sector insustrial para acoplarlas a un generador eléctrico.
+## Accesorios
 
-<div align="center">
-<br><img alt="TurbinaGas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TurbinaGas.svg" width="30%"><br>
-<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
-</div>
+## Sistema de lubricación
 
-### Motores a reacción
-El motor a reacción, es una variante de la turbina a gas. Consta de los mismos tres elementos (compresor, cámara de combustión y turbina), pero a diferencia de la turbina a gas, no extrae toda la potencia al eje, sino que cuenta a la salida de los gases de escape con una tobera que permite aumnetar la energía cinética de los gases de escape y por tanto generar propulsión. Son usados habitualmente en el sector aeronáutico para el transporte aéreo.
+## Sistema de Refrigeración
 
-<div align="center">
-<br><img alt="MotorReaccion" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MotorReaccion.jpg" width="30%"><br>
-<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
-</div>
-
-### Motores recíprocos ó alternativos
-Los motores recíprocos, alternativos o a pistón cuentan con una serie de elementos que permiten el ingreso al interior de la cámara de aire del exterior y combustible (gasolina ó Diesel) para posteriormente llevar a cabo un proceso cíclico que permite extraer la energía del combustible y entregarla en forma de energía mecánica en el eje del motor (cigüeñal). Durante el curso, se detallarán diferentes aspectos sobre los motores de combustión interna alternativos (MCIA).
-
-<div align="center">
-<br><img alt="MCIA" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MCIA.svg" width="30%"><br>
-<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
-</div>
+## Clasificaciones de los MCIA
 
 ## Referencias
 
