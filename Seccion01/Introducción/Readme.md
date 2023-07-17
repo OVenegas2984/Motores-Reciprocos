@@ -23,7 +23,7 @@ En las máquinas de combustión externa, el fluido de trabajo (fluido que genera
 
 <div align="center">
 <br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="50%"><br>
-<sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
+<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
 Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
