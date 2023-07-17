@@ -148,11 +148,11 @@
        id="text9592"><tspan
          sodipodi:role="line"
          id="tspan9590"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="144.76414"
          y="84.212265">Eje de</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="144.76414"
          y="89.503929"
          id="tspan9594">Potencia</tspan></text>
@@ -163,12 +163,12 @@
        y="125.55206"
        id="text9592-5"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="130.84978"
          y="125.55206"
          id="tspan9594-6">Entrada de</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="130.84978"
          y="130.84372"
          id="tspan9630">vapor</tspan></text>
@@ -179,7 +179,7 @@
        y="102.74113"
        id="text9592-5-3"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="56.950314"
          y="102.74113"
          id="tspan9630-9">Tobera</tspan></text>
@@ -190,7 +190,7 @@
        y="70.914871"
        id="text9592-5-3-8"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
          x="72.332512"
          y="70.914871"
          id="tspan9630-9-1">Turbina</tspan></text>
