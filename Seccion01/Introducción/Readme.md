@@ -18,7 +18,6 @@ Estos motores recíprocos han sido fundamentales en la industria y el transporte
 
 
 ## Máquina de combustión externa
-
 En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. 
 
 <div align="center">
@@ -32,7 +31,6 @@ Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adi
 * Turbina de vapor
 
 ### Máquina de vapor
-
 La máquina de vapor consiste en generar vapor gracias a la transferencia de calor de una caldera externa y así generar movimiento de algún mecanismo, ya sea como se usaba antigüamente para impulsar las locomotoras o tambén para extraer trabajo del fluido y usarlo en los procesos industriales.
 
 <div align="center">
@@ -41,7 +39,6 @@ La máquina de vapor consiste en generar vapor gracias a la transferencia de cal
 </div>
 
 ### Turbina de vapor
-
 Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le cede calor al agua y ésta se convierte en vapor. La diferencia radica en que a la salida de vapor cuenta con una tobera (reducción de sección) que aumenta la velocidad del fluido (energía cinética) impactando sobre los álabes de una turbina para generar movimiento de la misma y extraer potencia al eje.
 
 <div align="center">
@@ -50,16 +47,27 @@ Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le
 </div>
 
 ## Máquina de combustión interna
-
 Por su parte, en las máquinas de combustión interna, el fluido de trabajo experimenta el proceso de combustión y asu vez genera movimiento al mecanismo. Se ecuentran básicamente tres tipos de motores de combustión interna:
 
 * Turbinas a gas
 * Motores a reacción
 * Motores recíprocos ó alternativos
 
-### Turbina de vapor
+### Turbina a gas
+A diferencia de la turbina a vapor, la turbina a gas usa los gases del proceso de combustión para generar potencia en un eje. Está compuesta por un compresor, una cámara de combustión donde el fluido de trabajo experimenta el proceso de combustión y una turbina para extraer trabajo el aje. Habitualmente son usadas en el sector insustrial para acoplarlas a un generador eléctrico.
+
+<div align="center">
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TurbinaGas.svg" width="30%"><br>
+<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+</div>
 
 ### Motores a reacción
+El motor a reacción, es una variante de la turbina a gas. Consta de los mismos tres elementos (compresor, cámara de combustión y turbina), pero a diferencia de la turbina a gas, no extrae toda la potencia al eje, sino que cuenta a la salida de los gases de escape con una tobera que permite aumnetar la energía cinética de los gases de escape y por tanto generar propulsión. Son usados habitualmente en el sector aeronáutico para el transporte aéreo.
+
+<div align="center">
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MotorReaccion.jpg" width="30%"><br>
+<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+</div>
 
 ### Motores recíprocos ó alternativos
 
