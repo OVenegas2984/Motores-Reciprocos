@@ -17,19 +17,15 @@ Estos motores recíprocos han sido fundamentales en la industria y el transporte
 <div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
 
-## Máquina de combustión interna
-
-Los balances hidrológicos de largo plazo son frecuentemente utilizados en estudios hidrológicos y ambientales debido a que a través de ellos es posible: 
-
-* Estimar el caudal medio superficial disponible en cuencas hidrográficas o en localizaciones particulares de la red de drenaje.
-* Obtener ecuaciones características que relacionan áreas de aportación vs. caudales medios.
-* Estimar isorendimientos medios.
-* Estimar caudales para concesión por captación y vertimiento.
-* Estimar caudales ecológicos.
-* Obtener valores de referencia para el diseño de estructuras ecológicas.
-
-
 ## Máquina de combustión externa
+
+En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
+
+* Máquina de vapor
+* Turbina de vapor
+
+
+## Máquina de combustión interna
 
 Para la estimación de caudales medios, se realiza un balance hidrológico de largo plazo en cada una de las celdas que cubre la zona de estudio. Se denomina de largo plazo, debido a que se asume que luego de ser saturado el suelo, la escorrentía se produce por los excedentes de precipitación que no son evapotranspirados.
 
