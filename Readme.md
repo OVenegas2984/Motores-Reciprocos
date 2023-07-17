@@ -17,7 +17,7 @@ Este curso ha sido dividido en diferentes secciones y actividades secuenciales, 
   <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" width="75%"/>
 </div>
 
-<div align="center"><video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" target="_blank"><width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
+<div align="center"><a href="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioCurso.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
 
 _“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
