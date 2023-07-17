@@ -6,13 +6,13 @@
 
 
 ## Introducción a los Motores Recíprocos
-Keywords: `Mecanismo biela-manivela` `Hydrology` `Evapotranspiration` `Rain` `Area`
+Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy` `Chemical Energy` `Combustion`
 
+<br>Las máquinas térmicas han desempeñado un papel fundamental en la historia de la humanidad, ya que han sido un factor clave para el desarrollo de la industria y el avance tecnológico. A lo largo del tiempo, se han seguido desarrollando máquinas térmicas cada vez más eficientes y con diversas con aplicaciones que van desde el transporte terrestre, la propulsión de aviones y la generación de energía eléctrica. 
 
+A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las máquinas de combustión siguen siendo ampliamente utilizadas en la actualidad en diferentes áreas de la industria en general, aunque se espera que su uso graduclamente siga incorporando fuentes de energía más limpias y sostenibles en pro del bienestar de la sociedad. Un tipo particular de máquina térmica, son los motores recíprocos o alternativos (también conocidos como motores de pistón), los cuales convierten la energía química del combustible en energía mecánica a través de un proceso cíclico al interior del cilindro. 
 
-<br>Explicación general del procedimiento para la realización de balances hidrológicos e identificación de información base requerida. En esta clase también se listan algunas de las aplicaciones generales de los caudales medios de largo plazo en la realización de estudios de ingeniería y estudios ambientales
-
-Los balances hidrológicos de largo plazo permiten cuantificar la oferta hídrica superficial o el caudal medio en cualquier localización particular o sobre un área específica de interés. Para la ejecución completa de un balance hidrológico de largo plazo a nivel anual, es necesario definir primero el límite espacial de la zona de estudio para luego obtener los mapas de terreno, redes de drenaje y series hidroclimatológicas necesarias para la producción de mapas continuos.
+Estos motores recíprocos han sido fundamentales en la industria y el transporte, impulsando automóviles, aviones, embarcaciones y una amplia variedad de maquinarias y a los largo del tiempo han experimentado una evolución continua, mejorando en eficiencia, rendimiento y reducción de emisiones, encontrándose así hoy día motores más amigables con el medio ambiente llevando a cabo una transición hacia fuentes de energía más sostenibles y menos dependientes de los combustibles fósiles en el futuro.
 
 <div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
