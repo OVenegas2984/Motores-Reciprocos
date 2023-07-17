@@ -15,6 +15,7 @@ Este curso ha sido dividido en diferentes secciones y actividades secuenciales, 
 
 <div align="center">
 <br><video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1e87cb89-e704-44ad-bf54-f4021ed0d7d5" width="75%"/><br>
+<sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
 </div>
 
 
