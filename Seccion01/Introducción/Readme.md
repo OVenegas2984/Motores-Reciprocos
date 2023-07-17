@@ -34,7 +34,7 @@ Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adi
 La máquina de vapor consiste en generar vapor gracias a la transferencia de calor de una caldera externa y así generar movimiento de algún mecanismo, ya sea como se usaba antigüamente para impulsar las locomotoras o tambén para extraer trabajo del fluido y usarlo en los procesos industriales.
 
 <div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MaquinaVapor.jpg" width="30%"><br>
+<br><img alt="MaquinaVapor" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MaquinaVapor.jpg" width="30%"><br>
 <sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
@@ -42,7 +42,7 @@ La máquina de vapor consiste en generar vapor gracias a la transferencia de cal
 Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le cede calor al agua y ésta se convierte en vapor. La diferencia radica en que a la salida de vapor cuenta con una tobera (reducción de sección) que aumenta la velocidad del fluido (energía cinética) impactando sobre los álabes de una turbina para generar movimiento de la misma y extraer potencia al eje.
 
 <div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Turbina.svg" width="30%"><br>
+<br><img alt="TurbinaVapor" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Turbina.svg" width="30%"><br>
 <sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
@@ -57,7 +57,7 @@ Por su parte, en las máquinas de combustión interna, el fluido de trabajo expe
 A diferencia de la turbina a vapor, la turbina a gas usa los gases del proceso de combustión para generar potencia en un eje. Está compuesta por un compresor, una cámara de combustión donde el fluido de trabajo experimenta el proceso de combustión y una turbina para extraer trabajo el aje. Habitualmente son usadas en el sector insustrial para acoplarlas a un generador eléctrico.
 
 <div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TurbinaGas.svg" width="30%"><br>
+<br><img alt="TurbinaGas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TurbinaGas.svg" width="30%"><br>
 <sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
@@ -65,17 +65,24 @@ A diferencia de la turbina a vapor, la turbina a gas usa los gases del proceso d
 El motor a reacción, es una variante de la turbina a gas. Consta de los mismos tres elementos (compresor, cámara de combustión y turbina), pero a diferencia de la turbina a gas, no extrae toda la potencia al eje, sino que cuenta a la salida de los gases de escape con una tobera que permite aumnetar la energía cinética de los gases de escape y por tanto generar propulsión. Son usados habitualmente en el sector aeronáutico para el transporte aéreo.
 
 <div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MotorReaccion.jpg" width="30%"><br>
-<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+<br><img alt="MotorReaccion" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MotorReaccion.jpg" width="30%"><br>
+<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
 ### Motores recíprocos ó alternativos
+Los motores recíprocos, alternativos o a pistón cuentan con una serie de elementos que permiten el ingreso al interior de la cámara de aire del exterior y combustible (gasolina ó Diesel) para posteriormente llevar a cabo un proceso cíclico que permite extraer la energía del combustible y entregarla en forma de energía mecánica en el eje del motor (cigüeñal). Durante el curso, se detallarán diferentes aspectos sobre los motores de combustión interna alternativos (MCIA).
+
+<div align="center">
+<br><img alt="MCIA" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/MCIA.svg" width="30%"><br>
+<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
+</div>
 
 ## Referencias
 
-* [Unesco. (1981). Métodos de cálculo del balance hídrico.](https://unesdoc.unesco.org/ark:/48223/pf0000137771)
-* [UPM. Evapotranspiración real](http://ocw.upm.es/pluginfile.php/675/mod_label/intro/Evapotranspiracion-real.pdf)
-* [Sociedad Geográfica de Lima. (2011). Balance hídrico superficial.](https://www.gwp.org/globalassets/global/gwp-sam_files/publicaciones/varios/balance_hidrico.pdf)
+* Moran, J. M.; Shapiro, H. N. Fundamentals of Engineering Thermodynamics. Reverté. 7 ed. 2012.
+* Heywood J.B. Internal Combustion Engine Fundamentals, 1ra edición. McGraw Hill, (1988).
+* Payri, F. & J. Desantes. Motores de combustión interna alternativos. Editorial Reverté, (2011).
+
 
 
 | [Actividad anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.LTWB/discussions/38) | [Actividad siguiente](../Requirement) |
