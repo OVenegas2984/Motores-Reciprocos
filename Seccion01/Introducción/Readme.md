@@ -85,7 +85,7 @@ Los motores recíprocos, alternativos o a pistón cuentan con una serie de eleme
 
 
 
-| [Actividad anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [Actividad siguiente](../Requirement) |
+| [Actividad anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [Actividad siguiente](../Componentes) |
 |---------------------------------------|-----------------------------------|------------------------------------------------------------------------|---------------------------------------|
 
 
