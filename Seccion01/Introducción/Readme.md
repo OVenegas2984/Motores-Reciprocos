@@ -19,7 +19,14 @@ Estos motores recíprocos han sido fundamentales en la industria y el transporte
 
 ## Máquina de combustión externa
 
-En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
+En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. 
+
+<div align="center">
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="100%"><br>
+<sub>Fuente: Tomada de https://www.pngall.com/.</sub><br><br>
+</div>
+
+Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adicionarle calor al agua en estado líquido. Básicamente se encuentran dos tipos de máquinas de combustión externa:
 
 * Máquina de vapor
 * Turbina de vapor
