@@ -14,7 +14,15 @@ A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las má
 
 Estos motores recíprocos han sido fundamentales en la industria y el transporte, impulsando automóviles, aviones, embarcaciones y una amplia variedad de maquinarias y a los largo del tiempo han experimentado una evolución continua, mejorando en eficiencia, rendimiento y reducción de emisiones, encontrándose así hoy día motores más amigables con el medio ambiente llevando a cabo una transición hacia fuentes de energía más sostenibles y menos dependientes de los combustibles fósiles en el futuro.
 
-<div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
+
+
+
+https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/47becfda-bf76-4fb4-a214-fdb0f312e619
+
+
+
+https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/cbcb9eca-57d1-4610-867d-d05f522ae2da
+
 
 
 ## Máquina de combustión externa
