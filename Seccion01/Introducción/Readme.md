@@ -31,6 +31,23 @@ Habitualmente del fluido de trabajo es vapor de agua, el cual es obtenido al adi
 * Máquina de vapor
 * Turbina de vapor
 
+### Máquina de vapor
+
+La máquina de vapor consiste en generar vapor gracias a la transferencia de calor de una caldera externa y así generar movimiento de algún mecanismo, ya sea como se usaba antigüamente para impulsar las locomotoras o tambén para extraer trabajo del fluido y usarlo en los procesos industriales.
+
+<div align="center">
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="50%"><br>
+<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+</div>
+
+### Turbina de vapor
+
+Similar a la máquina de vapor, la turbina de vapor consta de una caldera que le cede calor al agua y ésta se convierte en vapor. La diferencia radica en que a la salida de vapor cuenta con una tobera (reducción de sección) que aumenta la velocidad del fluido (energía cinética) impactando sobre los álabes de una turbina para generar movimiento de la misma y extraer potencia al eje.
+
+<div align="center">
+<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="50%"><br>
+<sub>Fuente: Adaptada de https://co.pinterest.com/.</sub><br><br>
+</div>
 
 ## Máquina de combustión interna
 
