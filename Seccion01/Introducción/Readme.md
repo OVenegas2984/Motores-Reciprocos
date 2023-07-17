@@ -8,7 +8,7 @@
 ## Introducción a los Motores Recíprocos
 Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy` `Chemical Energy` `Combustion`
 
-<br><p style="text-align: justify;">Las máquinas térmicas han desempeñado un papel fundamental en la historia de la humanidad, ya que han sido un factor clave para el desarrollo de la industria y el avance tecnológico. A lo largo del tiempo, se han seguido desarrollando máquinas térmicas cada vez más eficientes y con diversas con aplicaciones que van desde el transporte terrestre, la propulsión de aviones y la generación de energía eléctrica.</p>
+<p style="text-align: justify;">Las máquinas térmicas han desempeñado un papel fundamental en la historia de la humanidad, ya que han sido un factor clave para el desarrollo de la industria y el avance tecnológico. A lo largo del tiempo, se han seguido desarrollando máquinas térmicas cada vez más eficientes y con diversas con aplicaciones que van desde el transporte terrestre, la propulsión de aviones y la generación de energía eléctrica.</p>
 
 A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las máquinas de combustión siguen siendo ampliamente utilizadas en la actualidad en diferentes áreas de la industria en general, aunque se espera que su uso graduclamente siga incorporando fuentes de energía más limpias y sostenibles en pro del bienestar de la sociedad. Un tipo particular de máquina térmica, son los motores recíprocos o alternativos (también conocidos como motores de pistón), los cuales convierten la energía química del combustible en energía mecánica a través de un proceso cíclico al interior del cilindro. 
 
