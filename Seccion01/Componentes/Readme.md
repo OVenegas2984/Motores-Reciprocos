@@ -19,11 +19,11 @@ Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo
 ## Partes Móviles Fundamentales
 Los elementos móviles fundamentales que se encuentran al interior del motor permiten trnasformar la presión generada por el proceso de la combustión en par motor en el cigüeñal por medio del mecanismo biela-manivela.
 
-## Pistón
+### Pistón
 Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
 
 <div align="center">
-<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="50%"><br>
+<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="30%"><br>
 </div>
 
 Esisten diferentes geometrías de pistones en función del tipo de motor al cual se acople (gasolina ó Diésel) o al propósito final en cuanto a la relación de compresión. Así, algunas de las geometrías son:
@@ -32,7 +32,7 @@ Esisten diferentes geometrías de pistones en función del tipo de motor al cual
 * Pistones con bowl en la cabeza del pistón, aplicado a motores Diésel para generar un movimiento del aire denominado Squish para mejorar el proceso de mezcla
 
 <div align="center">
-<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Pistones.PNG" width="50%"><br>
+<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Pistones.PNG" width="70%"><br>
 </div>
 
 ## Partes Fijas Fundamentales
