@@ -43,6 +43,13 @@ Se encuentran encajados en las pistas de los pistones y son los encargados de ev
 <br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Anillos.PNG" width="70%"><br>
 </div>
 
+### Biela
+
+La biela se encarga de transmitir la fuerza generada en la cabeza del pistón al cigüeñal; por lo tanto, está sometida a altos esferzos mecánicos cíclicos. Las partes de la biela son el pie de biela, donde se une con el pistón, la cabeza de la biela acoplada en el cigüeñal y por último el cuerpo de la biela que une la cabeza con el pie. A nivel comercial, el material usado es acero al carbono aleado con niquel cromo y molibdeno y se fabrican por medio de fundición, aunque en temas por ejemplo de competición se usan bielas frjadas para mejorar sus propiedades mecánicas.
+
+<div align="center">
+<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Biela.PNG" width="50%"><br>
+</div>
 
 ## Partes Fijas Fundamentales
 
