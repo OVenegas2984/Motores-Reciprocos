@@ -17,20 +17,22 @@ Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo
 
 
 ## Partes Móviles Fundamentales
-En las máquinas de combustión externa, el fluido de trabajo (fluido que genera el movimiento de algún mecanismo) no experimenta el proceso de combustión y se requiere de un proceso de transferencia de calor de la cámara externa hacia el fluido. 
+Los elementos móviles fundamentales que se encuentran al interior del motor permiten trnasformar la presión generada por el proceso de la combustión en par motor en el cigüeñal por medio del mecanismo biela-manivela.
 
-<div align="center">
-<br><img alt="Locomotora" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Locomotora.svg" width="30%"><br>
-<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
-</div>
+## Pistón
+Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
+
+Esisten diferentes geometrías de pistones en función del tipo de motor al cual se acople (gasolina ó Diésel) o al propósito final en cuanto a la relación de compresión. Así, algunas de las geometrías son:
+* Pistones para motores a gasolina de baja relación de compresión (usados en motores sobrealimentados)
+* Pistones para motores a gasolina de alta relación de compresión (motores modernos de altas prestaciones)
+* Pistones con bowl en la cabeza del pistón, aplicado a motores Diésel para generar un movimiento del aire denominado Squish para mejorar el proceso de mezcla
 
 
 
 ## Partes Fijas Fundamentales
-Por su parte, en las máquinas de combustión interna, el fluido de trabajo experimenta el proceso de combustión y asu vez genera movimiento al mecanismo. Se ecuentran básicamente tres tipos de motores de combustión interna:
 
-* Turbinas a gas
-* Motores a reacción
+## Pistón
+
 
 ## Accesorios
 
