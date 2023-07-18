@@ -23,7 +23,7 @@ Los elementos móviles fundamentales que se encuentran al interior del motor per
 Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
 
 <div align="center">
-<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="30%"><br>
+<br><img alt="Conjunto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="30%"><br>
 </div>
 
 Esisten diferentes geometrías de pistones en función del tipo de motor al cual se acople (gasolina ó Diésel) o al propósito final en cuanto a la relación de compresión. Así, algunas de las geometrías son:
@@ -40,7 +40,7 @@ Esisten diferentes geometrías de pistones en función del tipo de motor al cual
 Se encuentran encajados en las pistas de los pistones y son los encargados de evitar la fuga de gases del cilindro, asegurar la lubricación del cilindro evitando el paso del aceite de lubricación a la cámara de combustión. Existen dos tipos de anillos, los anillos de compresión y el anillo de lubricación. Habitualmente se tienen dos anillos de compresión en la parte superior del piston, los cuales efectúan un sello hermético durante la compresión y la combustión. Por su parte el anillo de lubricación, es el encargado de eliminar ("barrer") el aceite que no necesita las paredes del cilindro. Los anillos deben tener una buena resistencia mecánica, ciertas propiedades para la transferencia de calor y capacidad de lubricante; para lograrlo, se usan fundiciones de hierro aleadas con ligero contenido de silicio, níquel y manganeso y para la resistencia al rozamiento se cubre con cromo y molibdeno.
 
 <div align="center">
-<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Anillos.PNG" width="70%"><br>
+<br><img alt="Anillos" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Anillos.PNG" width="70%"><br>
 </div>
 
 ### Biela
@@ -48,7 +48,7 @@ Se encuentran encajados en las pistas de los pistones y son los encargados de ev
 La biela se encarga de transmitir la fuerza generada en la cabeza del pistón al cigüeñal; por lo tanto, está sometida a altos esferzos mecánicos cíclicos. Las partes de la biela son el pie de biela, donde se une con el pistón, la cabeza de la biela acoplada en el cigüeñal y por último el cuerpo de la biela que une la cabeza con el pie. A nivel comercial, el material usado es acero al carbono aleado con niquel cromo y molibdeno y se fabrican por medio de fundición, aunque en temas por ejemplo de competición se usan bielas frjadas para mejorar sus propiedades mecánicas.
 
 <div align="center">
-<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Biela.PNG" width="50%"><br>
+<br><img alt="Biela" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Biela.PNG" width="30%"><br>
 </div>
 
 ## Partes Fijas Fundamentales
