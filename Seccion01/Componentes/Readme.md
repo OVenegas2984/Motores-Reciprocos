@@ -22,12 +22,18 @@ Los elementos móviles fundamentales que se encuentran al interior del motor per
 ## Pistón
 Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
 
+<div align="center">
+<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="50%"><br>
+</div>
+
 Esisten diferentes geometrías de pistones en función del tipo de motor al cual se acople (gasolina ó Diésel) o al propósito final en cuanto a la relación de compresión. Así, algunas de las geometrías son:
 * Pistones para motores a gasolina de baja relación de compresión (usados en motores sobrealimentados)
 * Pistones para motores a gasolina de alta relación de compresión (motores modernos de altas prestaciones)
 * Pistones con bowl en la cabeza del pistón, aplicado a motores Diésel para generar un movimiento del aire denominado Squish para mejorar el proceso de mezcla
 
-
+<div align="center">
+<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Pistones.PNG" width="50%"><br>
+</div>
 
 ## Partes Fijas Fundamentales
 
