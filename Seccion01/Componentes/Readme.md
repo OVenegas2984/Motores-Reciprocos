@@ -35,6 +35,15 @@ Esisten diferentes geometrías de pistones en función del tipo de motor al cual
 <br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Pistones.PNG" width="70%"><br>
 </div>
 
+### Pistón Anillos, aros o segmentos del pistón
+
+Se encuentran encajados en las pistas de los pistones y son los encargados de evitar la fuga de gases del cilindro, asegurar la lubricación del cilindro evitando el paso del aceite de lubricación a la cámara de combustión. Existen dos tipos de anillos, los anillos de compresión y el anillo de lubricación. Habitualmente se tienen dos anillos de compresión en la parte superior del piston, los cuales efectúan un sello hermético durante la compresión y la combustión. Por su parte el anillo de lubricación, es el encargado de eliminar ("barrer") el aceite que no necesita las paredes del cilindro. Los anillos deben tener una buena resistencia mecánica, ciertas propiedades para la transferencia de calor y capacidad de lubricante; para lograrlo, se usan fundiciones de hierro aleadas con ligero contenido de silicio, níquel y manganeso y para la resistencia al rozamiento se cubre con cromo y molibdeno.
+
+<div align="center">
+<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Anillos.PNG" width="70%"><br>
+</div>
+
+
 ## Partes Fijas Fundamentales
 
 ## Pistón
