@@ -93,7 +93,7 @@ Los motores recíprocos, alternativos o a pistón cuentan con una serie de eleme
 * 1870: Primer motor de 2 tiempos diseñado por Siegfried Marcus.
 
 <div align="center">
-<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos1.png" width="30%"><br>
+<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos1.PNG" width="30%"><br>
 <sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
   
@@ -101,7 +101,7 @@ Los motores recíprocos, alternativos o a pistón cuentan con una serie de eleme
 * 1892: Rudolf Diesel perfeccionó su motor encendido por compresión. 
 
 <div align="center">
-<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos2.png" width="30%"><br>
+<br><img alt="Hitos1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos2.PNG" width="30%"><br>
 <sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
