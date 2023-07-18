@@ -82,6 +82,31 @@ Los motores recíprocos, alternativos o a pistón cuentan con una serie de eleme
 <sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
 </div>
 
+## Hitos históricos de los MCIA
+
+* Turbinas a gas
+* Motores a reacción
+* Motores recíprocos ó alternativos
+
+* 1712: Máquina recíproca (máquina de Savery) diseñada para mover una bomba y extraer agua.
+* 1860: J.J.E. Lenoir inventó el primer motor de uso práctico. Se vendieron unas 500 unidades.
+* 1870: Primer motor de 2 tiempos diseñado por Siegfried Marcus.
+
+<div align="center">
+<br><img alt="MCIA" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos1.png" width="30%"><br>
+<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
+</div>
+  
+* 1876: Nicolás Otto perfeccionó el motor de 4 tiempos.
+* 1892: Rudolf Diesel perfeccionó su motor encendido por compresión. 
+
+<div align="center">
+<br><img alt="MCIA" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Hitos2.png" width="30%"><br>
+<sub>Fuente: Tomada de https://co.pinterest.com/.</sub><br><br>
+</div>
+
+
+
 ## Referencias
 
 * Moran, J. M.; Shapiro, H. N. Fundamentals of Engineering Thermodynamics. Reverté. 7 ed. 2012.
