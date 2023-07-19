@@ -17,7 +17,7 @@ Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo
 
 
 ## Partes Móviles Fundamentales
-Los elementos móviles fundamentales que se encuentran al interior del motor permiten trnasformar la presión generada por el proceso de la combustión en par motor en el cigüeñal por medio del mecanismo biela-manivela.
+Los elementos móviles fundamentales que se encuentran al interior del motor permiten transformar la presión generada por el proceso de la combustión en par motor en el cigüeñal por medio del mecanismo biela-manivela.
 
 ### Pistón
 Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
