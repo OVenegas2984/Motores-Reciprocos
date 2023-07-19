@@ -59,7 +59,7 @@ Los casquetes de biela y bancada están diseñados para tener una buena resisten
 * Material superficial  BABBIT  aleación blanda compuesta de 83% de plomo, 15% de antimonio, 1% de estaño y 1% de arsénico.
 
 <div align="center">
-<br><img alt="Casquetes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Casquetes.PNG" width="50%"><br>
+<br><img alt="Casquetes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Casquetes.PNG" width="70%"><br>
 </div>
 
 
