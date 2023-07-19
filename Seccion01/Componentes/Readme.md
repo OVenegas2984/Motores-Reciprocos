@@ -96,7 +96,7 @@ Es una de las piezas mas importantes, puesto que aloja los pistones, cigüeñal 
 * Buena conductividad térmica
 
 <div align="center">
-<br><img alt="Bloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Bloque.PNG" width="30%"><br>
+<br><img alt="Bloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Bloque.PNG" width="70%"><br>
 </div>
 
 
