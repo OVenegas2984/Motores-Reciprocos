@@ -99,6 +99,20 @@ Es una de las piezas mas importantes, puesto que aloja los pistones, cigüeñal 
 <br><img alt="Bloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Bloque.PNG" width="70%"><br>
 </div>
 
+### Culata
+La culata es otra de las piezas fundamentales, cubre el cilindro por la parte superior y contiene el volumen de la cámara de combustión, por lo cual es importante una correcta hermeticidad con el bloque por medio de un empaque de culata. El material usado en la actualidad en vehículos comerciales son aleaciones de aluminio que cuentan con bajo pero y una buena conductividad térmica. La culata tiene diferentes funciones como son:
+* Aloja los ejes de levas y las válvulas.
+* Alojar las bujías de encendido en el caso de motores a gasolina.
+* Contiene los condustos de admisión y escape que se acoplan a los respectivos colectores de admisión y escape.
+* Delimita la cámara de combustión.
+* Continene los condustos ed refrigeración y lubricación.
+* Permite una buena transferencia de calor hacia el sistema de refrigeración.
+
+<div align="center">
+<br><img alt="Culata" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Culata.PNG" width="70%"><br>
+</div>
+
+
 
 ## Accesorios
 
