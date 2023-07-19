@@ -103,9 +103,11 @@ Es una de las piezas mas importantes, puesto que aloja los pistones, cigüeñal 
 ## Accesorios
 
 
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/09f785d2-0336-4534-b773-db69058064c0" width="75%"/>
+</div>
 
 
-https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/09f785d2-0336-4534-b773-db69058064c0
 
 
 
