@@ -83,13 +83,21 @@ Es una rueda de acero que está unida al cigüeñal y proporciona la inercia nec
 <br><img alt="Volante" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Volante.png" width="30%"><br>
 </div>
 
-
-
-
-
 ## Partes Fijas Fundamentales
+Las partes fijas fundamentales del motor son aquellas que alojan a los elementos móviles y otros sistemas necesarios para la correcta operación del motor como el sistema de lubricación y el sistema de refrigeración.
 
-## Pistón
+### Bloque de cilindros
+Es una de las piezas mas importantes, puesto que aloja los pistones, cigüeñal y biela. Los pistones se mueven en un movimiento rectilíneo en el cilindro, el cual se encuentra directamente mecanizado en el bloquo en algunos casos el cilindro es una pieza extraíble denominada camisa. Las características que debe tener un cilindro son:
+
+* Resistencia al desgaste
+* Resistencia superficial
+* Bajo coeficiente de rozamiento
+* Cualidades lubricantes
+* Buena conductividad térmica
+
+<div align="center">
+<br><img alt="Bloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Bloque.PNG" width="30%"><br>
+</div>
 
 
 ## Accesorios
