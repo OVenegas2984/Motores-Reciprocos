@@ -36,7 +36,6 @@ Esisten diferentes geometrías de pistones en función del tipo de motor al cual
 </div>
 
 ### Anillos, aros o segmentos del pistón
-
 Se encuentran encajados en las pistas de los pistones y son los encargados de evitar la fuga de gases del cilindro, asegurar la lubricación del cilindro evitando el paso del aceite de lubricación a la cámara de combustión. Existen dos tipos de anillos, los anillos de compresión y el anillo de lubricación. Habitualmente se tienen dos anillos de compresión en la parte superior del piston, los cuales efectúan un sello hermético durante la compresión y la combustión. Por su parte el anillo de lubricación, es el encargado de eliminar ("barrer") el aceite que no necesita las paredes del cilindro. Los anillos deben tener una buena resistencia mecánica, ciertas propiedades para la transferencia de calor y capacidad de lubricante; para lograrlo, se usan fundiciones de hierro aleadas con ligero contenido de silicio, níquel y manganeso y para la resistencia al rozamiento se cubre con cromo y molibdeno.
 
 <div align="center">
@@ -44,7 +43,6 @@ Se encuentran encajados en las pistas de los pistones y son los encargados de ev
 </div>
 
 ### Biela
-
 La biela se encarga de transmitir la fuerza generada en la cabeza del pistón al cigüeñal; por lo tanto, está sometida a altos esferzos mecánicos cíclicos. Las partes de la biela son el pie de biela, donde se une con el pistón, la cabeza de la biela acoplada en el cigüeñal y por último el cuerpo de la biela que une la cabeza con el pie. A nivel comercial, el material usado es acero al carbono aleado con niquel cromo y molibdeno y se fabrican por medio de fundición, aunque en temas por ejemplo de competición se usan bielas frjadas para mejorar sus propiedades mecánicas.
 
 <div align="center">
@@ -52,7 +50,6 @@ La biela se encarga de transmitir la fuerza generada en la cabeza del pistón al
 </div>
 
 ### Casquetes de biela y bancada
-
 Los casquetes de biela y bancada están diseñados para tener una buena resistencia a la fatiga, resistencia a la temperatura y resistencia a la corrosión. Los casquetes tienen las siguientes características:
 * Suministran una superficie de resbalamiento durante el arranque y cuando la película del lubricante es fina.
 * Suministran una superficie de desgaste blanda para absorber los residuos y para que el cojinete se adapte mejor al perfil del muñón del cigüeñal.
@@ -62,6 +59,12 @@ Los casquetes de biela y bancada están diseñados para tener una buena resisten
 <br><img alt="Casquetes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Casquetes.PNG" width="70%"><br>
 </div>
 
+### Cigüeñal
+El cigüeñal es el elemento que completa el mecanismo biela-manivela y es el encargado de convertir la fuerza producida por el movimiento rectilíneo alternativo de los pistones en un movimiento circular. Debido a las grandes cargas cíclicas que debe soportar, debe estar diseñado con un material que soporte continuas cargas a fatiga. Habitualmente se fabrican por el proceso de forma en acero aleado al cromo-níquel-molibdeno con un tratamiento superficial para tener una alta resistencia a la tracción.
+
+<div align="center">
+<br><img alt="Cigüeñal" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Cigüeñal.PNG" width="70%"><br>
+</div>
 
 ## Partes Fijas Fundamentales
 
