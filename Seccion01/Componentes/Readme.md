@@ -66,6 +66,19 @@ El cigüeñal es el elemento que completa el mecanismo biela-manivela y es el en
 <br><img alt="Cigüeñal" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Cigüeñal.PNG" width="70%"><br>
 </div>
 
+### Árbol de levas y válvulas
+El árbol de levas es el eje de rotación sincronizado con el cigüeñal que controla la apertura y el cierre de las válvulas. Cada una de las levas se encuentra desfasada con el fin de cumplir el ciclo que debe seguir cada cilindro. Por su parte, las válvulas permiten la entrada de nueva mezcla y la salida de gases de escape de la siguiente manera:
+
+* La válvula de admisión, controla la entrada de la mezcla, aire y combustible.
+* La válvula de escape, controla la salida de los gases quemados
+
+<div align="center">
+<br><img alt="EjeLevas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/EjeLevas.PNG" width="70%"><br>
+</div>
+
+
+
+
 ## Partes Fijas Fundamentales
 
 ## Pistón
