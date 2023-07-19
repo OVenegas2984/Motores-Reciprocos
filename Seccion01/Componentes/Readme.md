@@ -80,7 +80,7 @@ El árbol de levas es el eje de rotación sincronizado con el cigüeñal que con
 Es una rueda de acero que está unida al cigüeñal y proporciona la inercia necesaria para que el pistón vuelva a subir después del tiempo de combustión. Para una mosma cilindrada, la masa del volante es tanto más grande cuanto menos cilindros tenga. Están construidos en acero y deben estar debidamente balanceados con el conjunto cigüeñal.
 
 <div align="center">
-<br><img alt="Volante" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Volante.png" width="70%"><br>
+<br><img alt="Volante" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Volante.png" width="50%"><br>
 </div>
 
 
