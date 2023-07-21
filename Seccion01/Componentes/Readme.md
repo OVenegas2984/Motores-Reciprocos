@@ -5,13 +5,10 @@
 </div><br>
 
 
-## Componentes de un MCIA y Clasificaciones
+## Componentes de un MCIA
 Keywords: `Piston` `Connecting rod` `Crankshaft` `ICE types` `Block` `Cylinder head`
 
 <br> Para la adecuada operación de un motor de combustión interna alternativo (MCIA), se tienen una serie de componentes fundamentales que permiten su correcta operación cíclica. Dentro de éstos componentes se encientran el bloque, los cilindros, los pistones, las bielas, el cigueñal, la culata, las válvulas y ele eje de levas. Aunque dichos elementos son los principales, existen otros sistemas que garantizan una operación uniforme bajo unas condiciones determinadas como lo son el sistema de alimentación de combustible, el sistema de admisión, el sistema de escape, el sistema de lubricación y el sistema de refrigeración.
-
-Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo: motores de cuatro tiempos y motores de dos tiempos. Aunque también se pueden encontrar clasificaciones en función del tipo de bloque, el tipo de encendido, tipo de distribución según la ubicación del eje de levas y de acuerdo al proceso de alimentación del aire (aspirado o sobrealimentado). 
-
 
 <div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
