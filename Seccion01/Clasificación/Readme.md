@@ -25,7 +25,7 @@ En función de la disposición y número de los cilindros en el bloque, se puede
 * Motor radial
 
 <div align="center">
-<br><img alt="TipoBloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TipoBloque.PNG" width="30%"><br>
+<br><img alt="TipoBloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TipoBloque.PNG" width="70%"><br>
 </div>
  
 
