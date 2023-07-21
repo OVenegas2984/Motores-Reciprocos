@@ -15,7 +15,19 @@ Keywords: `spark ignition` `compression ignition` `4 stroke engine` `2 stroke en
 
 
 ## Forma del Bloque
-Los elementos móviles fundamentales que se encuentran al interior del motor permiten transformar la presión generada por el proceso de la combustión en par motor en el cigüeñal por medio del mecanismo biela-manivela.
+En función de la disposición y número de los cilindros en el bloque, se pueden tener diversos tipos de motores, tomando en cuenta factores de espacio, facilidad de refrigeración y accesibilidad en función de la aplicación final. En general se tiene que un motor en cuanto más numero de cilindros tienene, mejor será el balance dinámico del motor y su uniformamidad en marcha mínima. Algunas de las configuraciones mas usadas son:
+* Motor monocilíndrico
+* Motor en W
+* Motor en V
+* Motor de cilindros opuestos
+* Motor en línea
+* Motor de cilindros opuestos
+* Motor radial
+
+<div align="center">
+<br><img alt="TipoBloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/TipoBloque.PNG" width="30%"><br>
+</div>
+ 
 
 ### Pistón
 Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
