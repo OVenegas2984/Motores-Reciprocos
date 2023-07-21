@@ -123,7 +123,7 @@ El cárter es la pieza encargada de cerrar el motor por la parte inferior y es e
 Es el componente por donde circula el aire antes de entrar en los conductos de admisión de la culata. Además sirve de soporte para los inyectores (en el caso de inyección indirecta a gasolina). Se encuentran fabricados de plástico para motores atmosféricos y de aleación de aluminio para motores sobrealimentados habitualmente.
 
 <div align="center">
-<br><img alt="ColectorAdmision" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorAdmision.PNG" width="30%"><br>
+<br><img alt="ColectorAdmision" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorAdmision.PNG" width="50%"><br>
 </div>
 
 
