@@ -133,27 +133,14 @@ El colector de escape se encarga de recoger los gases de escape que salen de los
 <br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.jpg" width="30%"><br>
 </div>
 
-## Accesorios
-
-
 <div align="center">
 <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/09f785d2-0336-4534-b773-db69058064c0" width="100%"/>
 </div>
 
 
-
-
-
-## Sistema de lubricación
-
-## Sistema de Refrigeración
-
-## Clasificaciones de los MCIA
-
 ## Referencias
 
-* Moran, J. M.; Shapiro, H. N. Fundamentals of Engineering Thermodynamics. Reverté. 7 ed. 2012.
-* Heywood J.B. Internal Combustion Engine Fundamentals, 1ra edición. McGraw Hill, (1988).
+* Manual del automóvil, reparación y mantenimiento. Madrid, España : Cultural, S.A., (2000)
 * Payri, F. & J. Desantes. Motores de combustión interna alternativos. Editorial Reverté, (2011).
 
 
