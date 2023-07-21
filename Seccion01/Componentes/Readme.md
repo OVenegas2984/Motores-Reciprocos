@@ -142,7 +142,7 @@ El colector de escape se encarga de recoger los gases de escape que salen de los
 
 
 
-| [Anterior](../Introducción) | [:house: Inicio](../../Readme.md) | [Siguiente](../Termodinámica) |
+| [Anterior](../Introducción) | [:house: Inicio](../../Readme.md) | [Siguiente](../Clasificación) |
 
 
 ##
