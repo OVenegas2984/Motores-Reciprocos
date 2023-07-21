@@ -126,11 +126,11 @@ Es el componente por donde circula el aire antes de entrar en los conductos de a
 <br><img alt="ColectorAdmision" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorAdmision.PNG" width="50%"><br>
 </div>
 
-
 ### Colector de escape
+El colector de escape se encarga de recoger los gases de escape que salen de los cilindros y los dirige hacia el exterior pasando por catalizador y silenciador. Debe tener un diseño adecuado para facilitar la salida de los gases de escape. La disposición y forma de los tubos varía según el diseño de los fabricantes para cada motor en específico. Están fabricados en fundición de hierro o en acero con alta resistencia a la temperatura.
 
 <div align="center">
-<br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.PNG" width="30%"><br>
+<br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.jpg" width="30%"><br>
 </div>
 
 ## Accesorios
