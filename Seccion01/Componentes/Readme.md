@@ -116,12 +116,22 @@ La culata es otra de las piezas fundamentales, cubre el cilindro por la parte su
 El cárter es la pieza encargada de cerrar el motor por la parte inferior y es el epósito de aceite que permite a través de la bomba de aceite lubricar las partes móviles. En los motores actualer, el material usado para su fabricación es aleación de aluminio.
 
 <div align="center">
-<br><img alt="Carter" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Carter.jpg" width="50%"><br>
+<br><img alt="Carter" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Carter.jpg" width="30%"><br>
 </div>
 
 ### Colector de admisión
+Es el componente por donde circula el aire antes de entrar en los conductos de admisión de la culata. Además sirve de soporte para los inyectores (en el caso de inyección indirecta a gasolina). Se encuentran fabricados de plástico para motores atmosféricos y de aleación de aluminio para motores sobrealimentados habitualmente.
+
+<div align="center">
+<br><img alt="ColectorAdmision" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorAdmision.PNG" width="30%"><br>
+</div>
+
 
 ### Colector de escape
+
+<div align="center">
+<br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.PNG" width="30%"><br>
+</div>
 
 ## Accesorios
 
