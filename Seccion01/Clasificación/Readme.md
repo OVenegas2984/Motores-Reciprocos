@@ -6,7 +6,7 @@
 
 
 ## Clasificación de los MCIA
-Keywords: `Piston` `Connecting rod` `Crankshaft` `ICE types` `Block` `Cylinder head`
+Keywords: `spark ignition` `compression ignition` `4 stroke engine` `2 stroke engine` `aspirated engine` `turbocharged engine`
 
 <br> Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo: motores de cuatro tiempos y motores de dos tiempos. Aunque también se pueden encontrar clasificaciones en función del tipo de bloque, el tipo de encendido, tipo de distribución según la ubicación del eje de levas y de acuerdo al proceso de alimentación del aire (aspirado o sobrealimentado). 
 
