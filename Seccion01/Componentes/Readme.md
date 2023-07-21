@@ -112,6 +112,13 @@ La culata es otra de las piezas fundamentales, cubre el cilindro por la parte su
 <br><img alt="Culata" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Culata.PNG" width="70%"><br>
 </div>
 
+### Culata
+El cárter es la pieza encargada de cerrar el motor por la parte inferior y es el epósito de aceite que permite a través de la bomba de aceite lubricar las partes móviles. En los motores actualer, el material usado para su fabricación es aleación de aluminio.
+
+<div align="center">
+<br><img alt="Carter" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Carter.jpeg" width="70%"><br>
+</div>
+
 
 
 ## Accesorios
