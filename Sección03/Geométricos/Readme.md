@@ -8,11 +8,16 @@
 ## Parámetros Geométricos
 Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy` `Chemical Energy` `Combustion`
 
-<br>Las máquinas térmicas han desempeñado un papel fundamental en la historia de la humanidad, ya que han sido un factor clave para el desarrollo de la industria y el avance tecnológico. A lo largo del tiempo, se han seguido desarrollando máquinas térmicas cada vez más eficientes y con diversas con aplicaciones que van desde el transporte terrestre, la propulsión de aviones y la generación de energía eléctrica.
+<br>Las parámetros geométricos, definen el dimensionamineto básico de un motor de combustión interna alternativo. A continuación se muestra la nomenclatura básica que permite dimensionar un MCIA.
 
-A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las máquinas de combustión siguen siendo ampliamente utilizadas en la actualidad en diferentes áreas de la industria en general, aunque se espera que su uso graduclamente siga incorporando fuentes de energía más limpias y sostenibles en pro del bienestar de la sociedad. Un tipo particular de máquina térmica, son los motores recíprocos o alternativos (también conocidos como motores de pistón), los cuales convierten la energía química del combustible en energía mecánica a través de un proceso cíclico al interior del cilindro. 
+<div align="center">
+<br><img alt="Variables" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Variables.PNG" width="20%"><br>
+</div>
 
-Estos motores recíprocos han sido fundamentales en la industria y el transporte, impulsando automóviles, aviones, embarcaciones y una amplia variedad de maquinarias y a los largo del tiempo han experimentado una evolución continua, mejorando en eficiencia, rendimiento y reducción de emisiones, encontrándose así hoy día motores más amigables con el medio ambiente llevando a cabo una transición hacia fuentes de energía más sostenibles y menos dependientes de los combustibles fósiles en el futuro.
+donde:
+* B=Diámetro del cilindro
+* S=Carrera del pistón
+* r=longitud de la biela
 
 
 [Parámetros Geométricos](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Geométricos/Parámetros_Geométricos.pdf)
