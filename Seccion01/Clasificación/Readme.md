@@ -29,6 +29,7 @@ En función de la disposición y número de los cilindros en el bloque, se puede
 </div>
 
 ## Tipo de Encendido
+En los motores de combustión interna alternativos (MCIA) existen dos tipos de motores en función del tipo de encendido, provocado o compresión, los cuales a su vez se encuentran relacionados con los ciclos termodinámicos Otto y Diesel. 
 
 ### Encendido provocado o por chispa (Spark ignition - SI): 
 El proceso de combustión inicia en cada ciclo por medio una energía externa dada por un arco eléctrico formado en la bujía. La bujía enciende la mezcla de aire y combustible en la cámara de combustión.
@@ -45,6 +46,8 @@ El proceso de combustión inicia cuando la mezcla de aire/combustible se auto-en
 </div>
 
 ## Ciclo del Motor
+Para llevar a cabo todo el proceso cíclico, existen dos tipos de motores denominados de cuatro tiempos (4T) y de dos tiempos (2T).
+
 ### Motor de cuatro tiempos: 
 Realiza las cuatro etapas del ciclo termodinámico (admisión, compresión, combustión-expansión y escape) en cuatro movimientos lineales del pistón o en dos giros del cigüeñal.
 
@@ -60,6 +63,15 @@ Realiza las cuatro etapas del ciclo termodinámico (admisión, compresión, comb
 </div>
 
 ## Tipo de Distribución
+En función de la ubicación y cantidad del eje de levas se pueden clasificar los MCIA en tres tipos:
+
+* OHV (OverHead Valve): se distingue por tener el árbol de levas en el bloque motor y las válvulas dispuestas en la culata.
+* SOHC (Single OverHead Cam): esta compuesto por un solo árbol de levas que acciona las válvulas de admisión y escape.
+* DOHC (Double OverHead Cam): esta compuesto por dos árboles de levas, uno acciona la válvulas de admisión y el otro las de escape.
+
+<div align="center">
+<br><img alt="UbicaEjes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/UbicaEjes.PNG" width="20%"><br>
+</div>
 
 ## Proceso de Alimentación del Aire
 
