@@ -70,7 +70,7 @@ En función de la ubicación y cantidad del eje de levas se pueden clasificar lo
 * DOHC (Double OverHead Cam): esta compuesto por dos árboles de levas, uno acciona la válvulas de admisión y el otro las de escape.
 
 <div align="center">
-<br><img alt="UbicaEjes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/UbicaEjes.PNG" width="20%"><br>
+<br><img alt="UbicaEjes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/UbicaEjes.PNG" width="70%"><br>
 </div>
 
 ## Proceso de Alimentación del Aire
