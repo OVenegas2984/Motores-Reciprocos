@@ -11,7 +11,7 @@ Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy
 <br>Las parámetros geométricos, definen el dimensionamineto básico de un motor de combustión interna alternativo. A continuación se muestra la nomenclatura básica que permite dimensionar un MCIA.
 
 <div align="center">
-<br><img alt="Variables" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Variables.PNG" width="20%"><br>
+<br><img alt="Variables" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Variables.png" width="20%"><br>
 </div>
 
 donde:
