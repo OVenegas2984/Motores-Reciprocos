@@ -30,7 +30,24 @@ En función de la disposición y número de los cilindros en el bloque, se puede
 
 ## Tipo de Encendido
 
+### Encendido provocado o por chispa (Spark ignition - SI): 
+El proceso de combustión inicia en cada ciclo por medio una energía externa dada por un arco eléctrico formado en la bujía. La bujía enciende la mezcla de aire y combustible en la cámara de combustión.
+
+<div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
+
+### Encendido por compresión (Compression ignition  - CI): 
+El proceso de combustión inicia cuando la mezcla de aire/combustible se auto-enciende debido a las altas temperaturas que se producen en la cámara de combustión por el aumento de la presión. 
+
 ## Ciclo del Motor
+### Motor de cuatro tiempos: 
+Realiza las cuatro etapas del ciclo termodinámico (admisión, compresión, combustión-expansión y escape) en cuatro movimientos lineales del pistón o en dos giros del cigüeñal.
+
+
+
+### Motor de dos tiempos: 
+Realiza las cuatro etapas del ciclo termodinámico (admisión, compresión, combustión-expansión y escape) en dos movimientos lineales del pistón o en un giros del cigüeñal.
+
+
 
 ## Tipo de Distribución
 
