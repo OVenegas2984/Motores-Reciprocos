@@ -74,7 +74,17 @@ En función de la ubicación y cantidad del eje de levas se pueden clasificar lo
 </div>
 
 ## Proceso de Alimentación del Aire
+De acuerdo a la presión existente en el colector de admisión, los MCIA se pueden clasificar en motores de aspiración natural y motores sobrealimentados.
 
+### Aspiración natural: 
+En estos motores el aire ingresa al interior del cilindro gracias a la succión de aire ó vacío que hace el pistón en su recorrido del punto muerto superior al punto muerto inferior. 
+
+### Sobrealimentado: 
+En este tipo de motores se cuenta con un compresor que permite aumnetar la presión del aire que ingresa al cilindro, lo cual conlleva a aumentar la densidad del aire y por tanto lograr un aumento en la cantidad de masa de aire que ingresa. Lo anterior conlleva a que se pueda aumentar la cantidad de combustible con el fin de mejorar las prestaciones del motor sin variar la cilindrada del mismo. El compresor puede ser arrastrado mecánicamente desde el cigüeñal por medio de una correa o aprovechando la energía que tienen los gases de escape extraidos en una turbina como potencia en un eje solidario con el rodete del compresor; estos últimos, son denominados turbocompresores.
+
+<div align="center">
+<br><img alt="Compresores" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Compresores.PNG" width="70%"><br>
+</div>
 
 
 
