@@ -116,5 +116,17 @@ La energía se puede transferir hacia o desde un sistema en tres formas: calor, 
 
 ## Referencias
 
-* Manual del automóvil, reparación y mantenimiento. Madrid, España : Cultural, S.A., (2000)
+* Moran, J. M.; Shapiro, H. N. Fundamentals of Engineering Thermodynamics. Reverté. 7 ed. 2012.
+* Heywood J.B. Internal Combustion Engine Fundamentals, 1ra edición. McGraw Hill, (1988).
 * Payri, F. & J. Desantes. Motores de combustión interna alternativos. Editorial Reverté, (2011).
+
+
+
+| [Anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [Siguiente](../Componentes) |
+
+
+##
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/boton-certificados.png" alt="R.LTWB" width="260" border="0" /></a></div>
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/LogoEscuela.svg" alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Universidad Escuela Colombiana de Ingeniería Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
