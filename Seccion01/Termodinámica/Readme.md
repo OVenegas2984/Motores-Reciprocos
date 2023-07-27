@@ -25,6 +25,10 @@ Se basa en leyes fundamentales que gobiernan el comportamiento de sistemas macro
 ### La Primera Ley de la Termodinámica (Conservación de la Energía): 
 La energía no se crea ni se destruye, solo se transforma de una forma a otra. Es simplemente una expresión del principio de conservación de la energía, y sostiene que la energía es una propiedad termodinámica donde el cambio en el contenido energético de un sistema es igual a la diferencia de energía entre la entrada y la salida de energía. 
 
+<div align="center">
+<br><img alt="EcuEnergia" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/EcuEnergia.PNG" width="30%"><br>
+</div>
+
 ### La Segunda Ley de la Termodinámica: 
 Esta ley afirma que la energía tiene calidad y cantidad y los procesos reales se dan hacia donde se reduce la calidad de la energía. Un ejemplo típico es una taza de café caliente sobre una mesa en algún momento se enfría, pero una taza de café frío en el mismo espacio nunca se calienta por sí misma.
 
