@@ -116,13 +116,12 @@ La energía se puede transferir hacia o desde un sistema en tres formas: calor, 
 
 ## Referencias
 
+* Çengel, Y. A.; Boles, M. A. Thermodynamics: An Engineering Approach. McGraw-Hill. 7 ed. 2008. 
 * Moran, J. M.; Shapiro, H. N. Fundamentals of Engineering Thermodynamics. Reverté. 7 ed. 2012.
-* Heywood J.B. Internal Combustion Engine Fundamentals, 1ra edición. McGraw Hill, (1988).
-* Payri, F. & J. Desantes. Motores de combustión interna alternativos. Editorial Reverté, (2011).
+* Eastop & Mcconkey. Applied Thermodynamics for Engineering Technologist. Longman. 1997. 
 
 
-
-| [Anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [Siguiente](../Componentes) |
+| [Anterior](../Componentes) | [:house: Inicio](../../Readme.md) | [Siguiente](../Problemas) |
 
 
 ##
