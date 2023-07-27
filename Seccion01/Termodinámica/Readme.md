@@ -56,7 +56,7 @@ En el caso de que haya trabajo en un sistema cerrado debe existir un frontera m�
 Tambien denominado volúmen de control, es una región elegida en el espacio aunque en algunas partes no tenga una frontera físicamente definida. Por tanto en un sistema abierto el volumen de control puede tener fronteras fijas, móviles, reales o imaginarias.
 
 <div align="center">
-<br><img alt="SistAbierto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SistAbierto.PNG" width="30%"><br>
+<br><img alt="SistAbierto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SistAbierto.PNG" width="70%"><br>
 </div>
 
 ## Propiedades de un sistema
@@ -76,7 +76,7 @@ Las propiedades extensivas son aquellas que dependen de la cantidad o extensión
 Una forma fácil de determinar si una propiedad es intensiva o extensiva es dividir el sistema en dos partes iguales , cada propiedad tendrá el mismo valor si es una propiedad intensiva, pero tendrá la mitad del valor i se trata de propiedades extensivas.
 
 <div align="center">
-<br><img alt="Propiedades" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Propiedades.PNG" width="30%"><br>
+<br><img alt="Propiedades" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Propiedades.PNG" width="20%"><br>
 </div>
 
 ### Estado y equilibrio
@@ -111,7 +111,7 @@ Para determinar el cambio de energía de un sistema durante un proceso se requie
 La energía se puede transferir hacia o desde un sistema en tres formas: calor, trabajo y flujo másico. Las interacciones de energía se reconocen en las fronteras del sistema cuando lo cruzan, y representan la energía que gana o pierde un sistema durante un proceso. Las únicas dos formas de interacción de la energía relacionadas con una masa fija o sistema cerrado son las transferencias de calor y de trabajo, lo cual conlleva a decir que el cambio de la energía interna, dependerá del calor y el trabajo generados en la entrada y la salida.
 
 <div align="center">
-<br><img alt="Balance" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Balance.PNG" width="30%"><br>
+<br><img alt="Balance" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Balance.PNG" width="50%"><br>
 </div>
 
 ## Referencias
