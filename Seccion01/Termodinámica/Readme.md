@@ -29,7 +29,7 @@ La energía no se crea ni se destruye, solo se transforma de una forma a otra. E
 Esta ley afirma que la energía tiene calidad y cantidad y los procesos reales se dan hacia donde se reduce la calidad de la energía. Un ejemplo típico es una taza de café caliente sobre una mesa en algún momento se enfría, pero una taza de café frío en el mismo espacio nunca se calienta por sí misma.
 
 <div align="center">
-<br><img alt="SegundaLey" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SegundaLey.PNG" width="50%"><br>
+<br><img alt="SegundaLey" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SegundaLey.PNG" width="30%"><br>
 </div>
 
 ### Pistón
