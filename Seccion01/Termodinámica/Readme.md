@@ -6,7 +6,7 @@
 
 
 ## Principios de Termodinámica
-Keywords: `Piston` `Connecting rod` `Crankshaft` `ICE types` `Block` `Cylinder head`
+Keywords: `Energy` `first law` `second law` `Process` `Heat` `Trajectory` `System`
 
 <br> Con el propósito de comprender el comportamiento de los ciclos termodinámicos en un motor de combustión interna alternativo, se hace necesario conocer los conceptos básicos de la termódinamica como sistema, estado, equilibrio, energía y proceso. 
 
@@ -36,124 +36,83 @@ Esta ley afirma que la energía tiene calidad y cantidad y los procesos reales s
 <br><img alt="SegundaLey" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SegundaLey.PNG" width="30%"><br>
 </div>
 
-### Pistón
-Es el encargado de transmitir la fuerza generada por la combustión hacia el cigüeñal por medio de la biela. Actualmente los pistones usados son de aleación ligera de aluminio y silicio.
+## Sistemas y volúmenes de control
+Un sistema puede ser definido como una región en el espacio seleccionada para su estudio. La masa o región fuera del sistema se conoce como alrededores. La superficie real o imaginaria que separa al sistema de sus alrededores se llama frontera. Los sistemas se pueden considerar cerrados o abiertos, dependiendo de si se elige para estudio una masa fija o un volumen fijo en el espacio.
+
+### Sistema cerrrado
+Conocido tambien como masa de control, consta de una masa fija la cual no puede cruzar la frontera. Aunque la masa no puede entrar o salir de las fronteras, la energía si lo puede hacer en forma de calor o trabajo.
 
 <div align="center">
-<br><img alt="Conjunto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Conjunto.PNG" width="30%"><br>
+<br><img alt="SistCerrado1" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SistCerrado1.PNG" width="30%"><br>
 </div>
 
-Esisten diferentes geometrías de pistones en función del tipo de motor al cual se acople (gasolina ó Diésel) o al propósito final en cuanto a la relación de compresión. Así, algunas de las geometrías son:
-* Pistones para motores a gasolina de baja relación de compresión (usados en motores sobrealimentados)
-* Pistones para motores a gasolina de alta relación de compresión (motores modernos de altas prestaciones)
-* Pistones con bowl en la cabeza del pistón, aplicado a motores Diésel para generar un movimiento del aire denominado Squish para mejorar el proceso de mezcla
+En el caso de que haya trabajo en un sistema cerrado debe existir un frontera móvil que permita el cambio de volumen. Si no hay frontera móvil el trabajo es nulo.
 
 <div align="center">
-<br><img alt="Pistones" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Pistones.PNG" width="70%"><br>
+<br><img alt="SistCerrado2" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SistCerrado2.PNG" width="30%"><br>
 </div>
 
-### Anillos, aros o segmentos del pistón
-Se encuentran encajados en las pistas de los pistones y son los encargados de evitar la fuga de gases del cilindro, asegurar la lubricación del cilindro evitando el paso del aceite de lubricación a la cámara de combustión. Existen dos tipos de anillos, los anillos de compresión y el anillo de lubricación. Habitualmente se tienen dos anillos de compresión en la parte superior del piston, los cuales efectúan un sello hermético durante la compresión y la combustión. Por su parte el anillo de lubricación, es el encargado de eliminar ("barrer") el aceite que no necesita las paredes del cilindro. Los anillos deben tener una buena resistencia mecánica, ciertas propiedades para la transferencia de calor y capacidad de lubricante; para lograrlo, se usan fundiciones de hierro aleadas con ligero contenido de silicio, níquel y manganeso y para la resistencia al rozamiento se cubre con cromo y molibdeno.
+### Sistema abierto
+Tambien denominado volúmen de control, es una región elegida en el espacio aunque en algunas partes no tenga una frontera físicamente definida. Por tanto en un sistema abierto el volumen de control puede tener fronteras fijas, móviles, reales o imaginarias.
 
 <div align="center">
-<br><img alt="Anillos" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Anillos.PNG" width="70%"><br>
+<br><img alt="SistAbierto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/SistAbierto.PNG" width="30%"><br>
 </div>
 
-### Biela
-La biela se encarga de transmitir la fuerza generada en la cabeza del pistón al cigüeñal; por lo tanto, está sometida a altos esferzos mecánicos cíclicos. Las partes de la biela son el pie de biela, donde se une con el pistón, la cabeza de la biela acoplada en el cigüeñal y por último el cuerpo de la biela que une la cabeza con el pie. A nivel comercial, el material usado es acero al carbono aleado con niquel cromo y molibdeno y se fabrican por medio de fundición, aunque en temas por ejemplo de competición se usan bielas frjadas para mejorar sus propiedades mecánicas.
+## Propiedades de un sistema
+Una propiedad es cualquier característica de un sistema (temperatura, presión, volumen, masa , entre otras). Las propiedades pueden ser intensivas o extensivas.
+
+### Propiedades intensivas
+Las propiedades intensivas son aquellas independientes del tamaño o extensión del sistema, es decir, son independientes de la masa o el volumen del sistema. Estas propiedades tienen el mismo valor en cualquier punto del sistema en equilibrio termodinámico. Algunos propiedades intensivas son:
+* Temperatura: La temperatura es una medida de la energía cinética promedio de las partículas en el sistema. No importa cuánta masa tenga el sistema, la temperatura se mantiene constante si el sistema está en equilibrio.
+* Presión: La presión es la fuerza por unidad de área ejercida por un gas o un fluido. Al igual que la temperatura, la presión es independiente de la cantidad de sustancia presente en el sistema.
+* Densidad: La densidad es la masa por unidad de volumen de un material. La densidad de un material no cambia con la cantidad de ese material presente en el sistema.
+
+### Propiedades extensivas
+Las propiedades extensivas son aquellas que dependen de la cantidad o extensión del sistema. Su valor total aumenta o disminuye proporcionalmente con la cantidad de materia presente. Algunos ejemplos de propiedades extensivas son:
+* Masa: La masa total del sistema es una propiedad extensiva, ya que aumenta o disminuye según la cantidad de sustancia presente.
+* Volumen: El volumen total del sistema es una propiedad extensiva y varía con la cantidad de sustancia presente.
+
+Una forma fácil de determinar si una propiedad es intensiva o extensiva es dividir el sistema en dos partes iguales , cada propiedad tendrá el mismo valor si es una propiedad intensiva, pero tendrá la mitad del valor i se trata de propiedades extensivas.
 
 <div align="center">
-<br><img alt="Biela" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Biela.PNG" width="20%"><br>
+<br><img alt="Propiedades" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Propiedades.PNG" width="30%"><br>
 </div>
 
-### Casquetes de biela y bancada
-Los casquetes de biela y bancada están diseñados para tener una buena resistencia a la fatiga, resistencia a la temperatura y resistencia a la corrosión. Los casquetes tienen las siguientes características:
-* Suministran una superficie de resbalamiento durante el arranque y cuando la película del lubricante es fina.
-* Suministran una superficie de desgaste blanda para absorber los residuos y para que el cojinete se adapte mejor al perfil del muñón del cigüeñal.
-* Material superficial  BABBIT  aleación blanda compuesta de 83% de plomo, 15% de antimonio, 1% de estaño y 1% de arsénico.
+### Estado y equilibrio
+Un estado constituye una condición del sistema en donde todas las propiedades tienen definidos valores fijos. Al cambiar siquiera el valor de una propiedad, el estado del sistema también cambiará.
 
 <div align="center">
-<br><img alt="Casquetes" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Casquetes.PNG" width="70%"><br>
+<br><img alt="Estados" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Estados.PNG" width="30%"><br>
 </div>
 
-### Cigüeñal
-El cigüeñal es el elemento que completa el mecanismo biela-manivela y es el encargado de convertir la fuerza producida por el movimiento rectilíneo alternativo de los pistones en un movimiento circular. Debido a las grandes cargas cíclicas que debe soportar, debe estar diseñado con un material que soporte continuas cargas a fatiga. Habitualmente se fabrican por el proceso de forma en acero aleado al cromo-níquel-molibdeno con un tratamiento superficial para tener una alta resistencia a la tracción.
+El estado de un sistema se describe mediante sus propiedades, pero se sabe por experiencia que no es necesario especificarlas todas con la finalidad de fijarlo. Una vez especificadas suficientes propiedades, el resto asume automáticamente ciertos valores; es decir, especificar cierto número de propiedades es suficiente para fijar un estado. El número de propiedades requeridas para fijar el estado de un sistema compresible simple se especifica por completo mediante dos propiedades intensivas independientes como por ejemplo la Temperatura ó el volumen específico.
+
+## Procesos y ciclos
+Cualquier cambio de un estado de equilibrio a otro experimentado por un sistema es un proceso, y la serie de estados por los que pasa un sistema durante este proceso es una trayectoria del proceso. Para describir completamente un proceso se deben especificar sus estados inicial y final, así como la trayectoria que sigue y las interacciones con los alrededores.
 
 <div align="center">
-<br><img alt="Cigüeñal" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Cigüeñal.PNG" width="70%"><br>
+<br><img alt="Trayectoria" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Trayectoria.PNG" width="30%"><br>
 </div>
 
-### Árbol de levas y válvulas
-El árbol de levas es el eje de rotación sincronizado con el cigüeñal que controla la apertura y el cierre de las válvulas. Cada una de las levas se encuentra desfasada con el fin de cumplir el ciclo que debe seguir cada cilindro. Por su parte, las válvulas permiten la entrada de nueva mezcla y la salida de gases de escape de la siguiente manera:
+Los diagramas de proceso trazados mediante el empleo de propiedades termodinámicas en forma de coordenadas son muy útiles para tener una representación visual del proceso. Algunas propiedades comunes usadas como coordenadas son temperatura T, presión P y volumen V (o volumen específico v). 
 
-* La válvula de admisión, controla la entrada de la mezcla, aire y combustible.
-* La válvula de escape, controla la salida de los gases quemados
+El prefijo iso- se usa con frecuencia para designar un proceso en el que una propiedad particular permanece constante. Por ejemplo, un proceso isotérmico es aquel durante el cual la temperatura T permanece constante; un proceso isobárico es en el que la presión P se mantiene constante, y un proceso isocórico es aquel donde el volumen permanece constante.
+
+Se dice que un sistema ha experimentado un ciclo si regresa a su estado inicial al final del proceso, es decir, para un ciclo los estados inicial y final son idénticos.El aérea que encierra un ciclo se denomina Trabajo neto (Wneto). En la siguiente figura se observa que el trabajo (área bajo la curva) realizado durante la expansión (trayectoria A), es mayor que el trabajo (área bajo la curva) realizado durante la compresión (trayectoria B) y que la diferencia entre los dos da el trabajo neto que es el área sombreada.
 
 <div align="center">
-<br><img alt="EjeLevas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/EjeLevas.PNG" width="70%"><br>
+<br><img alt="Ciclo" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Ciclo.PNG" width="30%"><br>
 </div>
 
-### Volante de inercia
-Es una rueda de acero que está unida al cigüeñal y proporciona la inercia necesaria para que el pistón vuelva a subir después del tiempo de combustión. Para una mosma cilindrada, la masa del volante es tanto más grande cuanto menos cilindros tenga. Están construidos en acero y deben estar debidamente balanceados con el conjunto cigüeñal.
+## Balance de energía
+Para determinar el cambio de energía de un sistema durante un proceso se requiere evaluar la energía del sistema al principio y al final del proceso y encontrar su diferencia. Anteriormente, se observó que el cambio de energía en el sistema era la diferencia entre la Energía que entra y la Energía que sale del sistema.
+
+La energía se puede transferir hacia o desde un sistema en tres formas: calor, trabajo y flujo másico. Las interacciones de energía se reconocen en las fronteras del sistema cuando lo cruzan, y representan la energía que gana o pierde un sistema durante un proceso. Las únicas dos formas de interacción de la energía relacionadas con una masa fija o sistema cerrado son las transferencias de calor y de trabajo, lo cual conlleva a decir que el cambio de la energía interna, dependerá del calor y el trabajo generados en la entrada y la salida.
 
 <div align="center">
-<br><img alt="Volante" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Volante.png" width="30%"><br>
+<br><img alt="Balance" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Balance.PNG" width="30%"><br>
 </div>
-
-## Partes Fijas Fundamentales
-Las partes fijas fundamentales del motor son aquellas que alojan a los elementos móviles y otros sistemas necesarios para la correcta operación del motor como el sistema de lubricación y el sistema de refrigeración.
-
-### Bloque de cilindros
-Es una de las piezas mas importantes, puesto que aloja los pistones, cigüeñal y biela. Los pistones se mueven en un movimiento rectilíneo en el cilindro, el cual se encuentra directamente mecanizado en el bloquo en algunos casos el cilindro es una pieza extraíble denominada camisa. Las características que debe tener un cilindro son:
-
-* Resistencia al desgaste
-* Resistencia superficial
-* Bajo coeficiente de rozamiento
-* Cualidades lubricantes
-* Buena conductividad térmica
-
-<div align="center">
-<br><img alt="Bloque" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Bloque.PNG" width="70%"><br>
-</div>
-
-### Culata
-La culata es otra de las piezas fundamentales, cubre el cilindro por la parte superior y contiene el volumen de la cámara de combustión, por lo cual es importante una correcta hermeticidad con el bloque por medio de un empaque de culata. El material usado en la actualidad en vehículos comerciales son aleaciones de aluminio que cuentan con bajo pero y una buena conductividad térmica. La culata tiene diferentes funciones como son:
-* Aloja los ejes de levas y las válvulas.
-* Alojar las bujías de encendido en el caso de motores a gasolina.
-* Contiene los condustos de admisión y escape que se acoplan a los respectivos colectores de admisión y escape.
-* Delimita la cámara de combustión.
-* Continene los condustos ed refrigeración y lubricación.
-* Permite una buena transferencia de calor hacia el sistema de refrigeración.
-
-<div align="center">
-<br><img alt="Culata" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Culata.PNG" width="70%"><br>
-</div>
-
-### Cárter de aceite
-El cárter es la pieza encargada de cerrar el motor por la parte inferior y es el epósito de aceite que permite a través de la bomba de aceite lubricar las partes móviles. En los motores actualer, el material usado para su fabricación es aleación de aluminio.
-
-<div align="center">
-<br><img alt="Carter" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Carter.jpg" width="30%"><br>
-</div>
-
-### Colector de admisión
-Es el componente por donde circula el aire antes de entrar en los conductos de admisión de la culata. Además sirve de soporte para los inyectores (en el caso de inyección indirecta a gasolina). Se encuentran fabricados de plástico para motores atmosféricos y de aleación de aluminio para motores sobrealimentados habitualmente.
-
-<div align="center">
-<br><img alt="ColectorAdmision" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorAdmision.PNG" width="50%"><br>
-</div>
-
-### Colector de escape
-El colector de escape se encarga de recoger los gases de escape que salen de los cilindros y los dirige hacia el exterior pasando por catalizador y silenciador. Debe tener un diseño adecuado para facilitar la salida de los gases de escape. La disposición y forma de los tubos varía según el diseño de los fabricantes para cada motor en específico. Están fabricados en fundición de hierro o en acero con alta resistencia a la temperatura.
-
-<div align="center">
-<br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.jpg" width="30%"><br>
-</div>
-
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/09f785d2-0336-4534-b773-db69058064c0" width="100%"/>
-</div>
-
 
 ## Referencias
 
