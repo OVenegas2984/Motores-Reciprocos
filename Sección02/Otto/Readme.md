@@ -4,7 +4,12 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Ciclo Otto
+Keywords: `Otto cycle` `Heat addition` `Constant volume combustion`
 
+<br>El ciclo Otto es el ciclo termodinámico que se aplica en los motores de combustión interna de encendido provocado (motores de gasolina).
+
+[Ciclo Otto](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Otto/Ciclo_Otto.pdf)
 
 
 ## Referencias
