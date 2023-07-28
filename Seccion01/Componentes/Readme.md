@@ -131,8 +131,9 @@ El colector de escape se encarga de recoger los gases de escape que salen de los
 </div>
 
 <div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/09f785d2-0336-4534-b773-db69058064c0" width="100%"/>
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/f029764e-9541-4777-95dc-148b5e412584" width="100%"/>
 </div>
+
 
 
 ## Referencias
