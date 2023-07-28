@@ -15,7 +15,7 @@
 
 
 
-| [Anterior](../Introducción) | [:house: Inicio](../../Readme.md) | [Siguiente](../Diesel) |
+| [Anterior](../Introducción) | [:house: Inicio](../../Readme.md) | [Siguiente](../Diésel) |
 
 
 ##
