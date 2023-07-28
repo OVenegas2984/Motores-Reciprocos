@@ -4,7 +4,17 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Parámetros Efectivos
+Keywords: `Brake work` `Brake mean effective pressure` `Brake torque` `Brake power` `Breke thermal efficiency`
 
+<br>Las parámetros efectivos, son parámetros reales medidos en el eje del motor (cigüeñal). Habitualmente para medir dichos parámetros, de disponen de bancos de pruebas que permiten obtener las curvas cacractériticas a diferentes condiciones de oparación, tanto en grado de carga como en régimen de giro. 
+
+<div align="center">
+<br><img alt="CurvasCaracteristicas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CurvasCaracteristicas.PNG" width="50%"><br>
+</div>
+
+
+[Parámetros Efectivos](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Efectivos/Parámetros_Efectivos.pdf)
 
 
 ## Referencias
