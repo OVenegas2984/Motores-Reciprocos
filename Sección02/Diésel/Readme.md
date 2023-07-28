@@ -4,6 +4,13 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Ciclo Diesel
+Keywords: `Diesel cycle` `Heat addition` `Constant pressure combustion`
+
+<br>El ciclo Diesel aplica para los motores de encendido por compresión en donde no se requiere de una energía externa para iniciar el proceso de combustión.
+
+[Ciclo Diesel](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Diésel/Ciclo_Diesel.pdf)
+
 
 
 
