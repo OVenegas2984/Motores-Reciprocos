@@ -10,7 +10,7 @@ Keywords: `Brake work` `Brake mean effective pressure` `Brake torque` `Brake pow
 <br>Las parámetros efectivos, son parámetros reales medidos en el eje del motor (cigüeñal). Habitualmente para medir dichos parámetros, de disponen de bancos de pruebas que permiten obtener las curvas cacractériticas a diferentes condiciones de oparación, tanto en grado de carga como en régimen de giro. 
 
 <div align="center">
-<br><img alt="CurvasCaracteristicas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CurvasCaracteristicas.PNG" width="70%"><br>
+<br><img alt="CurvasCaracteristicas" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CurvasCaracteristicas.PNG" width="90%"><br>
 </div>
 
 
