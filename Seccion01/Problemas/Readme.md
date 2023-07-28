@@ -20,7 +20,7 @@
 
 
 
-| [Anterior](../Componentes) | [:house: Inicio](../../Readme.md) | [Siguiente](../Problemas) |
+| [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../Sección02/Introducción) |
 
 
 ##
