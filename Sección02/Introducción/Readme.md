@@ -10,7 +10,7 @@ Keywords: `Power cycles` `Carnot cycle` `Cycle efficiency`
 
 <br>Previo aconocer los ciclos Otto y Diesel, es importante tener en cuenta algunas consideraciones previas:
 
-[Consideraciones Termodinámicas](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Introducción/Consideraciones_Termodinámicas.pdf)
+[Consideraciones](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Introducción/Consideraciones.pdf)
 
 
 
