@@ -10,7 +10,7 @@ Keywords: `Indicated work` `Mean indicated pressure` `Indicated torque` `Indicat
 <br>Las parámetros geométricos, permiten determinar las prestaciones de un MCIA ideales o teóricos. Por tanto, dichos parámetros partes del ciclo termodinámico ideal (Otto ó Diesel).
 
 <div align="center">
-<br><img alt="CicloIndicado" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CicloIndicado.PNG" width="20%"><br>
+<br><img alt="CicloIndicado" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CicloIndicado.PNG" width="50%"><br>
 </div>
 
 
