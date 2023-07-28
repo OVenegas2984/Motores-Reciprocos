@@ -6,7 +6,7 @@
 
 ## Problemas
 
-[Problemas Propuestos](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Problemas/Problemas_Propuestos.pdf)
+[Problemas Propuestos](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Problemas/Problemas_Propuestos03.pdf)
 
 
 ## Referencias
