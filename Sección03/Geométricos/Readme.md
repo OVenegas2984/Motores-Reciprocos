@@ -6,7 +6,7 @@
 
 
 ## Parámetros Geométricos
-Keywords: `Internal Combustion Engine` `Reciprocating engine` `Mechanical Energy` `Chemical Energy` `Combustion`
+Keywords: `Bore` `Stroke` `displaced volume` `chamber volume` `total volume`
 
 <br>Las parámetros geométricos, definen el dimensionamineto básico de un motor de combustión interna alternativo. A continuación se muestra la nomenclatura básica que permite dimensionar un MCIA.
 
