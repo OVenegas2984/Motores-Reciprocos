@@ -9,6 +9,10 @@ Keywords: `Diesel cycle` `Heat addition` `Constant pressure combustion`
 
 <br>El ciclo Diesel aplica para los motores de encendido por compresión en donde no se requiere de una energía externa para iniciar el proceso de combustión.
 
+<div align="center">
+<br><img alt="CicloDiesel" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CicloDiesel.PNG" width="50%"><br>
+</div>
+
 [Ciclo Diesel](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Diésel/Ciclo_Diesel.pdf)
 
 
