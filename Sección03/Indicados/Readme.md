@@ -14,7 +14,7 @@
 
 
 
-| [Actividad anterior](../Geométricos) | [:house: Inicio](../../Readme.md) | [Actividad siguiente](../Efectivos) |
+| [Anterior](../Geométricos) | [:house: Inicio](../../Readme.md) | [Siguiente](../Efectivos) |
 
 
 ##
