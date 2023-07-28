@@ -4,6 +4,17 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Parámetros Indicados
+Keywords: `Indicated work` `Mean indicated pressure` `Indicated torque` `Indicated power` `Indicated thermal efficiency`
+
+<br>Las parámetros geométricos, permiten determinar las prestaciones de un MCIA ideales o teóricos. Por tanto, dichos parámetros partes del ciclo termodinámico ideal (Otto ó Diesel).
+
+<div align="center">
+<br><img alt="CicloIndicado" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CicloIndicado.PNG" width="20%"><br>
+</div>
+
+
+[Parámetros Indicados](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Geométricos/Parámetros_Indicados.pdf)
 
 
 
