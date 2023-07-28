@@ -4,6 +4,13 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Introducción
+Keywords: `Power cycles` `Carnot cycle` `Cycle efficiency`
+
+
+<br>Previo aconocer los ciclos Otto y Diesel, es importante tener en cuenta algunas consideraciones previas:
+
+[Consideraciones Termodinámicas](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Introducción/Consideraciones_Termodinámicas.pdf)
 
 
 
