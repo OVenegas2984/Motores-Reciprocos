@@ -4,7 +4,9 @@
 <br><b>Motores de Combustión Interna Alternativos</b><br><br><b>Universidad Escuela Colombiana de Ingeniería Julio Garavito</b><br>Ph.D. Ing. Oscar Hernando Venegas Pereira<br>Profesor del Centro de Estudios en Sistemas Térmicos y Mecánicos<br>oscar.venegas@escuelaing.edu.co<br>
 </div><br>
 
+## Problemas
 
+[Problemas Propuestos](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Problemas/Problemas_Propuestos.pdf)
 
 
 ## Referencias
