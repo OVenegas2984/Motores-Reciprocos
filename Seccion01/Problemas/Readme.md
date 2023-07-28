@@ -20,7 +20,7 @@
 
 
 
-| [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../Sección02/Introducción) |
+| [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../../Sección02/Introducción) |
 
 
 ##
