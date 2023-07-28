@@ -14,8 +14,7 @@ Keywords: `Indicated work` `Mean indicated pressure` `Indicated torque` `Indicat
 </div>
 
 
-[Parámetros Indicados](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Geométricos/Parámetros_Indicados.pdf)
-
+[Parámetros Indicados](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección03/Indicados/Parámetros_Indicados.pdf)
 
 
 ## Referencias
