@@ -10,7 +10,7 @@ Keywords: `Piston` `Connecting rod` `Crankshaft` `ICE types` `Block` `Cylinder h
 
 <br> Para la adecuada operación de un motor de combustión interna alternativo (MCIA), se tienen una serie de componentes fundamentales que permiten su correcta operación cíclica. Dentro de éstos componentes se encientran el bloque, los cilindros, los pistones, las bielas, el cigueñal, la culata, las válvulas y ele eje de levas. Aunque dichos elementos son los principales, existen otros sistemas que garantizan una operación uniforme bajo unas condiciones determinadas como lo son el sistema de alimentación de combustible, el sistema de admisión, el sistema de escape, el sistema de lubricación y el sistema de refrigeración.
 
-<div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
+
 
 
 ## Partes Móviles Fundamentales
