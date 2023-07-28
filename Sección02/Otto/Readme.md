@@ -9,6 +9,10 @@ Keywords: `Otto cycle` `Heat addition` `Constant volume combustion`
 
 <br>El ciclo Otto es el ciclo termodinámico que se aplica en los motores de combustión interna de encendido provocado (motores de gasolina).
 
+<div align="center">
+<br><img alt="CicloOtto" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/CicloOtto.PNG" width="50%"><br>
+</div>
+
 [Ciclo Otto](https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/Sección02/Otto/Ciclo_Otto.pdf)
 
 
