@@ -14,7 +14,7 @@
 
 
 
-| [Actividad anterior](../Indicados) | [:house: Inicio](../../Readme.md) | [Actividad siguiente](../Problemas) |
+| [Anterior](../Indicados) | [:house: Inicio](../../Readme.md) | [Siguiente](../Problemas) |
 
 
 ##
