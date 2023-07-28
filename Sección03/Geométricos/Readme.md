@@ -30,7 +30,7 @@ donde:
 
 
 
-| [Actividad anterior](../../Sección02/Problemas) | [:house: Inicio](../../Readme.md) | [Actividad siguiente](../Indicados) |
+| [Anterior](../../Sección02/Problemas) | [:house: Inicio](../../Readme.md) | [Siguiente](../Indicados) |
 
 
 ##
