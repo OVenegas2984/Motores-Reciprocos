@@ -14,7 +14,7 @@
 
 
 
-| [Actividad anterior](../Efectivos) | [:house: Inicio](../../Readme.md) | 
+| [Anterior](../Efectivos) | [:house: Inicio](../../Readme.md) | 
 
 
 ##
