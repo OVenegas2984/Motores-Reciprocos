@@ -10,7 +10,6 @@ Keywords: `Energy` `first law` `second law` `Process` `Heat` `Trajectory` `Syste
 
 <br> Con el propósito de comprender el comportamiento de los ciclos termodinámicos en un motor de combustión interna alternativo, se hace necesario conocer los conceptos básicos de la termódinamica como sistema, estado, equilibrio, energía y proceso. 
 
-<div align="center"><br><a href="http://www.youtube.com/watch?feature=player_embedded&v=g5Dvm9IYhOg" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHYouTubeInicioActividad.png" alt="R.LTWB" width="75%" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLneiG4vC_8YupZFL2DtUEdcgtXyWT7Apt</sub><br><br></div>
 
 
 ## Concepto de Termodinámica y Energía
