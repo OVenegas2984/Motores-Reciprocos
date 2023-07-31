@@ -16,16 +16,20 @@ Si en un sistema, la energía interna decrece 470J en un proceso adiabático, ¿
 Un gas se expande adiabáticamente y realiza 520J de trabajo. ¿Cuál es el cambio de la energía interna del gas?
 
 <div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/9d4635b5-7482-4f84-ad86-e6a27de84b87" width="75%"/>
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/2445eaef-b93b-4ef4-a873-614077fd7f86" width="75%"/>
 </div>
 
-## Problema balance de energía
+## Problema adición de calor sin frontera móvil
+Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabajo realizado por el gas?
 
 ## Problema trabajo realizado por el sistema
+Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
 
 ## Problema cambio de la energía interna
+Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sistema es de 857J. Encuentre el cambio de la energía interna del gas
 
 ## Problema trabajo neto de un ciclo
+Considerando el diagrama PV, determine el trabajo neto del ciclo.
 
 
 
