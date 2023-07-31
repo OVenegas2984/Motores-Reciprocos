@@ -118,8 +118,13 @@ La energía se puede transferir hacia o desde un sistema en tres formas: calor, 
 </div>
 
 
-[![Alt text](https://img.youtube.com/vi/UOTZ73O7Jqs/0.jpg)](https://www.youtube.com/watch?v=UOTZ73O7Jqs)
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/b1ac1f02-8a12-4fb8-86b9-9649bbd9b8c1" width="75%"/>
 
+</div>
+<div align="center">
+<video[![Alt text](https://img.youtube.com/vi/UOTZ73O7Jqs/0.jpg)](https://www.youtube.com/watch?v=UOTZ73O7Jqs) width="75%"/>
+</div>
 https://www.youtube.com/watch?v=UOTZ73O7Jqs
 
 https://www.youtube.com/@UPV/videos
