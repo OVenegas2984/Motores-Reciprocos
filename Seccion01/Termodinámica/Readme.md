@@ -113,6 +113,11 @@ La energía se puede transferir hacia o desde un sistema en tres formas: calor, 
 <br><img alt="Balance" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/Balance.PNG" width="50%"><br>
 </div>
 
+
+https://www.youtube.com/watch?v=UOTZ73O7Jqs
+
+https://www.youtube.com/@UPV/videos
+
 ## Referencias
 
 * Çengel, Y. A.; Boles, M. A. Thermodynamics: An Engineering Approach. McGraw-Hill. 7 ed. 2008. 
