@@ -29,6 +29,10 @@ Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabaj
 ## Problema cambio de la energía interna 1
 Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
 
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1c237d94-fe7e-48cf-a7de-b5691f5d7f00" width="75%"/>
+</div>
+
 ## Problema cambio de la energía interna 2
 Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sistema es de 857J. Encuentre el cambio de la energía interna del gas
 
