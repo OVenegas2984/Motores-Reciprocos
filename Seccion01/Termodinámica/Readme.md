@@ -114,7 +114,7 @@ La energía se puede transferir hacia o desde un sistema en tres formas: calor, 
 </div>
 
 
-<div align="center"><br><a href="https://www.youtube.com/embed/UOTZ73O7Jqs" target="_blank"><img src="https://img.youtube.com/vi/UOTZ73O7Jqs/0.jpg" alt="Termodinámica_Básica" width="560" border="0" /></a><sub><br>https://www.youtube.com/embed/UOTZ73O7Jqs</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/UOTZ73O7Jqs" target="_blank"><img src="https://img.youtube.com/vi/UOTZ73O7Jqs/0.jpg" alt="Termodinámica_Básica" width="560" border="0" /></a><sub><br>Tomado de: https://www.youtube.com/@UPV</sub><br><br></div>
 
 
 
