@@ -40,10 +40,20 @@ Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sis
 <br><img alt="FronteraMovil" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/FronteraMovil.PNG" width="15%"><br>
 </div>
 
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c495d508-5395-424f-a4ef-b369b073c569" width="75%"/>
+</div>
+
 ## Problema trabajo neto de un ciclo
 Considerando el diagrama PV, determine el trabajo neto del ciclo.
 
+<div align="center">
+<br><img alt="DiagramaPV" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/DiagramaPV.PNG" width="15%"><br>
+</div>
 
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c495d508-5395-424f-a4ef-b369b073c569" width="75%"/>
+</div>
 
 
 | [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../../Sección02/Introducción) |
