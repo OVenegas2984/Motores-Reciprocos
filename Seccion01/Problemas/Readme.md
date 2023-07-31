@@ -48,7 +48,7 @@ Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sis
 Considerando el diagrama PV, determine el trabajo neto del ciclo.
 
 <div align="center">
-<br><img alt="DiagramaPV" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/DiagramaPV.jpeg" width="15%"><br>
+<br><img alt="DiagramaPV" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/DiagramaPV.jpeg" width="30%"><br>
 </div>
 
 <div align="center">
