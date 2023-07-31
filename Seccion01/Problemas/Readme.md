@@ -8,10 +8,9 @@
 ## Problema proceso adiabático 1
 Si en un sistema, la energía interna decrece 470J en un proceso adiabático, ¿cuánto trabajo fue realizado por el sistema?
 
-
-https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/9d4635b5-7482-4f84-ad86-e6a27de84b87
-
-
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/9d4635b5-7482-4f84-ad86-e6a27de84b87" width="75%"/>
+</div>
 
 ## Problema proceso adiabático 2
 
