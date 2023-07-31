@@ -26,7 +26,7 @@ Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabaj
 <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/7666bc3c-c7b9-4a8d-8a12-67b7180561c0" width="75%"/>
 </div>
 
-## Problema trabajo realizado por el sistema
+## Problema trabajo y calor realizado por el sistema
 Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
 
 ## Problema cambio de la energía interna
