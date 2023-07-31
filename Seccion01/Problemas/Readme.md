@@ -13,6 +13,11 @@ Si en un sistema, la energía interna decrece 470J en un proceso adiabático, ¿
 </div>
 
 ## Problema proceso adiabático 2
+Un gas se expande adiabáticamente y realiza 520J de trabajo. ¿Cuál es el cambio de la energía interna del gas?
+
+<div align="center">
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/9d4635b5-7482-4f84-ad86-e6a27de84b87" width="75%"/>
+</div>
 
 ## Problema balance de energía
 
