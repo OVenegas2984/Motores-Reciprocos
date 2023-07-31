@@ -28,6 +28,10 @@ Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Deter
 ## Problema cambio de la energía interna
 Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sistema es de 857J. Encuentre el cambio de la energía interna del gas
 
+<div align="center">
+<br><img alt="FronteraMovil" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/FronteraMovil.PNG" width="70%"><br>
+</div>
+
 ## Problema trabajo neto de un ciclo
 Considerando el diagrama PV, determine el trabajo neto del ciclo.
 
