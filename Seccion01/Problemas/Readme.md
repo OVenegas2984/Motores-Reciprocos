@@ -52,7 +52,7 @@ Considerando el diagrama PV, determine el trabajo neto del ciclo.
 </div>
 
 <div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c495d508-5395-424f-a4ef-b369b073c569" width="75%"/>
+<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/e48166d9-f6bc-4b67-ba46-46483370d559" width="75%"/>
 </div>
 
 
