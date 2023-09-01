@@ -14,6 +14,9 @@ Keywords: `Spark ignition` `Compression ignition` `4 stroke engine` `2 stroke en
 <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c78ee135-c6af-4c8f-8065-a4d9bf84b08a" width="75%"/>
 </div>
 
+<div align="center"><br><a href="https://www.youtube.com/embed/P6FkM5mwXg8" target="_blank"><img src="https://img.youtube.com/vi/P6FkM5mwXg8/0.jpg" alt="Termodinámica_Básica" width="560" border="0" /></a><sub><br>Tomado de: https://www.youtube.com/@UPV</sub><br><br></div>
+
+
 ## Forma del Bloque
 En función de la disposición y número de los cilindros en el bloque, se pueden tener diversos tipos de motores, tomando en cuenta factores de espacio, facilidad de refrigeración y accesibilidad en función de la aplicación final. En general se tiene que un motor en cuanto más numero de cilindros tienene, mejor será el balance dinámico del motor y su uniformamidad en marcha mínima. Algunas de las configuraciones mas usadas son:
 * Motor monocilíndrico: motor con solo un cilíndro
