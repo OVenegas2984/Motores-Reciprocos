@@ -17,8 +17,7 @@ Este curso ha sido dividido en diferentes secciones y actividades secuenciales, 
 <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/80552752-d8f8-435d-835a-2aa82fc3f37c" width="75%"/>
 </div>
 
-
-https://youtu.be/gWu_fPBCWq0
+<div align="center"><br><a href="https://www.youtube.com/embed/gWu_fPBCWq0" target="_blank"><img src="https://img.youtube.com/vi/gWu_fPBCWq0/0.jpg" alt="Inicio Curso" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 _“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
 juega un papel importante. Así, un motor de combustión interna es un dispositivo que transforma la energía química de un combustible en energía térmica y utiliza ésta energía térmica para producir trabajo útil. Por lo tanto, un motor de combustión convierte la energía térmica en energía mecánica.”_ (V. Ganesan, 2012).
