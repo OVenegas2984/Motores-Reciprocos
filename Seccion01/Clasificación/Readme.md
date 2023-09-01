@@ -10,9 +10,9 @@ Keywords: `Spark ignition` `Compression ignition` `4 stroke engine` `2 stroke en
 
 <br> Los MCIA se dividen principalmente en dos categorías según el ciclo de trabajo: motores de cuatro tiempos y motores de dos tiempos. Aunque también se pueden encontrar clasificaciones en función del tipo de bloque, el tipo de encendido, tipo de distribución según la ubicación del eje de levas y de acuerdo al proceso de alimentación del aire (aspirado o sobrealimentado). 
 
-<!-- <div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c78ee135-c6af-4c8f-8065-a4d9bf84b08a" width="75%"/>
-</div> -->
+<!-- <div align="center"> -->
+<!-- <video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c78ee135-c6af-4c8f-8065-a4d9bf84b08a" width="75%"/> -->
+<!-- </div> -->
 
 <!-- Esto es un comentario -->
 
