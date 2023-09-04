@@ -14,9 +14,9 @@ A pesar del crecimiento de la movilidad eléctrica y otras tecnologías, las má
 
 Estos motores recíprocos han sido fundamentales en la industria y el transporte, impulsando automóviles, aviones, embarcaciones y una amplia variedad de maquinarias y a los largo del tiempo han experimentado una evolución continua, mejorando en eficiencia, rendimiento y reducción de emisiones, encontrándose así hoy día motores más amigables con el medio ambiente llevando a cabo una transición hacia fuentes de energía más sostenibles y menos dependientes de los combustibles fósiles en el futuro.
 
-<div align="center"><br><a href="https://www.youtube.com/embed/4YHXVpIgmps" target="_blank"><img src="https://img.youtube.com/vi/4YHXVpIgmps/0.jpg" alt="Inicio Curso" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/4YHXVpIgmps" target="_blank"><img src="https://img.youtube.com/vi/4YHXVpIgmps/0.jpg" alt="Introducción Parte I" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
-<div align="center"><br><a href="https://www.youtube.com/embed/aEkpWuHiq8M" target="_blank"><img src="https://img.youtube.com/vi/aEkpWuHiq8M/0.jpg" alt="Inicio Curso" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/aEkpWuHiq8M" target="_blank"><img src="https://img.youtube.com/vi/aEkpWuHiq8M/0.jpg" alt="Introducción Parte II" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 
 ## Máquina de combustión externa
