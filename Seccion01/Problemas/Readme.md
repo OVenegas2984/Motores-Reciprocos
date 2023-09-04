@@ -18,9 +18,7 @@ Un gas se expande adiabáticamente y realiza 520J de trabajo. ¿Cuál es el camb
 ## Problema adición de calor sin frontera móvil
 Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabajo realizado por el gas?
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/7666bc3c-c7b9-4a8d-8a12-67b7180561c0" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/QbHddQatB4Q" target="_blank"><img src="https://img.youtube.com/vi/QbHddQatB4Q/0.jpg" alt="Problema_sinFronteraMovil" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema cambio de la energía interna 1
 Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
