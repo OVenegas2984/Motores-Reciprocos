@@ -15,8 +15,6 @@ Este curso ha sido dividido en diferentes secciones y actividades secuenciales, 
 
 <div align="center"><br><a href="https://www.youtube.com/embed/0Wz436g51BI" target="_blank"><img src="https://img.youtube.com/vi/0Wz436g51BI/0.jpg" alt="Inicio Curso" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
-https://www.youtube.com/watch?v=0Wz436g51BI
-
 _“Un motor es un dispositivo que transforma una forma de energía en otra forma. Sin embargo, al transformar la energía de una forma a otra, la eficiencia
 juega un papel importante. Así, un motor de combustión interna es un dispositivo que transforma la energía química de un combustible en energía térmica y utiliza ésta energía térmica para producir trabajo útil. Por lo tanto, un motor de combustión convierte la energía térmica en energía mecánica.”_ (V. Ganesan, 2012).
 
