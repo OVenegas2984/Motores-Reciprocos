@@ -8,16 +8,12 @@
 ## Problema proceso adiabático 1
 Si en un sistema, la energía interna decrece 470J en un proceso adiabático, ¿cuánto trabajo fue realizado por el sistema?
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/9d4635b5-7482-4f84-ad86-e6a27de84b87" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/STep_YDYHD0" target="_blank"><img src="https://img.youtube.com/vi/STep_YDYHD0/0.jpg" alt="Problema_Adiabatico1" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema proceso adiabático 2
 Un gas se expande adiabáticamente y realiza 520J de trabajo. ¿Cuál es el cambio de la energía interna del gas?
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/2445eaef-b93b-4ef4-a873-614077fd7f86" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/g2EIN2mI87Y" target="_blank"><img src="https://img.youtube.com/vi/g2EIN2mI87Y/0.jpg" alt="Problema_Adiabatico2" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema adición de calor sin frontera móvil
 Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabajo realizado por el gas?
