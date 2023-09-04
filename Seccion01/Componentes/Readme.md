@@ -130,9 +130,7 @@ El colector de escape se encarga de recoger los gases de escape que salen de los
 <br><img alt="ColectorEscape" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/ColectorEscape.jpg" width="30%"><br>
 </div>
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/f029764e-9541-4777-95dc-148b5e412584" width="100%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/dfFvtpbjdow" target="_blank"><img src="https://img.youtube.com/vi/dfFvtpbjdow/0.jpg" alt="Despiece Motor" width="560" border="0" /></a><sub><br>Tomado de: https://www.youtube.com/@xHansdeJongx</sub><br><br></div>
 
 
 
