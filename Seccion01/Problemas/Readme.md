@@ -23,9 +23,7 @@ Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabaj
 ## Problema cambio de la energía interna 1
 Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/1c237d94-fe7e-48cf-a7de-b5691f5d7f00" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/fqr2RCzM8jQ" target="_blank"><img src="https://img.youtube.com/vi/fqr2RCzM8jQ/0.jpg" alt="Problema_CambioEnergia Interna1" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema cambio de la energía interna 2
 Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sistema es de 857J. Encuentre el cambio de la energía interna del gas
@@ -34,9 +32,7 @@ Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sis
 <br><img alt="FronteraMovil" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/FronteraMovil.PNG" width="15%"><br>
 </div>
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/c495d508-5395-424f-a4ef-b369b073c569" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/uUFLJn1wn3k" target="_blank"><img src="https://img.youtube.com/vi/uUFLJn1wn3k/0.jpg" alt="Problema_CambioEnergia Interna2" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema trabajo neto de un ciclo
 Considerando el diagrama PV, determine el trabajo neto del ciclo.
