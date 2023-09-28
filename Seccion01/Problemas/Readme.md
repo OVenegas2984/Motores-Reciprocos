@@ -41,9 +41,7 @@ Considerando el diagrama PV, determine el trabajo neto del ciclo.
 <br><img alt="DiagramaPV" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/DiagramaPV.jpeg" width="30%"><br>
 </div>
 
-<div align="center">
-<video src="https://github.com/OVenegas2984/Motores-Reciprocos/assets/131204158/e48166d9-f6bc-4b67-ba46-46483370d559" width="75%"/>
-</div>
+<div align="center"><br><a href="https://www.youtube.com/embed/mGy6n_k8eAA" target="_blank"><img src="https://img.youtube.com/vi/mGy6n_k8eAA/0.jpg" alt="Problema_TrabajoNeto" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 
 | [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../../Sección02/Introducción) |
