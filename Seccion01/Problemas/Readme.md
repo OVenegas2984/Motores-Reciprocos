@@ -18,12 +18,12 @@ Un gas se expande adiabáticamente y realiza 520J de trabajo. ¿Cuál es el camb
 ## Problema adición de calor sin frontera móvil
 Un gas en un volumen constane se le adicionan 25J de calor. ¿Cuál es el trabajo realizado por el gas?
 
-<div align="center"><br><a href="https://www.youtube.com/embed/QbHddQatB4Q" target="_blank"><img src="https://img.youtube.com/vi/QbHddQatB4Q/0.jpg" alt="Problema_sinFronteraMovil" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/mqLCTunNWXU" target="_blank"><img src="https://img.youtube.com/vi/mqLCTunNWXU/0.jpg" alt="Problema_sinFronteraMovil" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema cambio de la energía interna 1
 Un nadador hace 430kJ de trabajo y durante el proceso cede 140kJ de calor. Determine el cambio de la energía interna del nadador
 
-<div align="center"><br><a href="https://www.youtube.com/embed/fqr2RCzM8jQ" target="_blank"><img src="https://img.youtube.com/vi/fqr2RCzM8jQ/0.jpg" alt="Problema_CambioEnergia Interna1" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/rdx9D-qqb9w" target="_blank"><img src="https://img.youtube.com/vi/rdx9D-qqb9w/0.jpg" alt="Problema_CambioEnergia Interna1" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema cambio de la energía interna 2
 Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sistema es de 857J. Encuentre el cambio de la energía interna del gas
@@ -32,7 +32,7 @@ Un gas es comprimido adiabáticamente y la cantidad de calor suministrado al sis
 <br><img alt="FronteraMovil" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/FronteraMovil.PNG" width="15%"><br>
 </div>
 
-<div align="center"><br><a href="https://www.youtube.com/embed/uUFLJn1wn3k" target="_blank"><img src="https://img.youtube.com/vi/uUFLJn1wn3k/0.jpg" alt="Problema_CambioEnergia Interna2" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/UG2e3V74erE" target="_blank"><img src="https://img.youtube.com/vi/UG2e3V74erE/0.jpg" alt="Problema_CambioEnergia Interna2" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 ## Problema trabajo neto de un ciclo
 Considerando el diagrama PV, determine el trabajo neto del ciclo.
@@ -41,7 +41,7 @@ Considerando el diagrama PV, determine el trabajo neto del ciclo.
 <br><img alt="DiagramaPV" src="https://github.com/OVenegas2984/Motores-Reciprocos/blob/main/.icon/DiagramaPV.jpeg" width="30%"><br>
 </div>
 
-<div align="center"><br><a href="https://www.youtube.com/embed/mGy6n_k8eAA" target="_blank"><img src="https://img.youtube.com/vi/mGy6n_k8eAA/0.jpg" alt="Problema_TrabajoNeto" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
+<div align="center"><br><a href="https://www.youtube.com/embed/yAhsM8UIaHs" target="_blank"><img src="https://img.youtube.com/vi/yAhsM8UIaHs/0.jpg" alt="Problema_TrabajoNeto" width="560" border="0" /></a><sub><br>Playlist: https://www.youtube.com/playlist?list=PLaq1sRJOVGbccAa8M_eCD95gJt-cgOuNf</sub><br><br></div>
 
 
 | [Anterior](../Termodinámica) | [:house: Inicio](../../Readme.md) | [Siguiente](../../Sección02/Introducción) |
